@@ -36,10 +36,40 @@ public class IntListTest {
      *  Keep in mind that dcatenate(A, B) is NOT required to leave A untouched.
      *  Anything can happen to A. 
      */
-
+    @Test
+    public void testSquareListRecursive(){
+        IntList L = IntList.list(1,2,3);
+        L = IntList.squareListRecursive(L);
+        assertEquals(IntList.list(1,4,9),L);
+    }
     //TODO:  Create testSquareListRecursive()
     //TODO:  Create testDcatenate and testCatenate
-
+    @Test
+    public void testSquareListIterative(){
+        IntList L = IntList.list(1,2,3);
+        L = IntList.squareListIterative(L);
+        assertEquals(IntList.list(1,4,9),L);
+    }
+    @Test
+    public void testConcate()
+    {
+        IntList L1 = IntList.list(1,2,3);
+        IntList L2 = IntList.list(4,5,6);
+        IntList L3 = IntList.catenate(L1, L2);
+        assertEquals(IntList.list(1,2,3,4,5,6),L3);
+        assertEquals(IntList.list(1,2,3),L1);
+        assertEquals(IntList.list(4,5,6),L2);
+    }
+    @Test
+    public void testDConcate()
+    {
+        IntList L1 = IntList.list(1,2,3);
+        IntList L2 = IntList.list(4,5,6);
+        IntList L3 = IntList.dcatenate(L1, L2);
+        assertEquals(IntList.list(1,2,3,4,5,6),L3);
+        assertEquals(IntList.list(1,2,3,4,5,6),L1);
+        assertEquals(IntList.list(4,5,6),L2);
+    }
     /* Run the unit tests in this file. */
     public static void main(String... args) {
         jh61b.junit.textui.runClasses(IntListTest.class);

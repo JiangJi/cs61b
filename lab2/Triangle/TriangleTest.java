@@ -2,6 +2,7 @@
  * JUnit tests for the Triangle class
  */
 import org.junit.Test;
+
 import static org.junit.Assert.*;
 
 /**
@@ -23,11 +24,21 @@ public class TriangleTest {
     @Test
     public void testEquilateral() {
       //TODO: FILL IN
+        Triangle t = new Triangle(30,30,30);
+        String result = t.triangleType();
+        assertEquals("Equilateral",result);
     }
-
+    
+    @Test
+    public void testIsoseles(){
+        Triangle t = new Triangle(30,30,40);
+        String result = t.triangleType();
+        assertEquals("Isosceles",result);
+    }
     //TODO: CREATE MORE TESTS
 
     public static void main(String[] args) {
       //TODO: RUN TESTS (Look in ArithmeticTest.java main method for help!)
+        jh61b.junit.textui.runClasses(ArithmeticTest.class);
     }
 }

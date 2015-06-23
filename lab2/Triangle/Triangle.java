@@ -27,7 +27,13 @@ public class Triangle {
     }  
 
     // Return triangle type
-    //TODO:  return either "Equilateral", "Isosceles", or "Scalene"
-    return null; //REPLACE THIS LINE
+    if(s1 == s2 && s2 == s3){
+        return "Equilateral";
+    }
+    if(s1 == s2 || s2 == s3 || s3 == s1){
+        return "Isosceles";
+    }
+    return "Scalene";
+    //TODO:  return either "Equilateral", "Isosceles", or "Scalene" //REPLACE THIS LINE
   }
 }
