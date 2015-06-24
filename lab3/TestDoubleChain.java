@@ -12,8 +12,6 @@ public class TestDoubleChain {
     public void testConstructor() {
         DoubleChain d = new DoubleChain(5);
         assertEquals(5,d.getFront().val, 1e-6);
-        assertEquals(null, d.getFront().prev);
-        assertEquals(null, d.getFront().next);
     }
 
     /** Tests some basic DoubleChain operations. */
@@ -23,15 +21,25 @@ public class TestDoubleChain {
         assertEquals(5, d.getFront().val, 1e-11);
         assertEquals(5, d.getBack().val, 1e-11);
 
-        d.insertFront(2);
+        d.insertFront(3);
         d.insertFront(1);
         d.insertBack(7);
         d.insertBack(8);
         assertEquals(1, d.getFront().val, 1e-11);
         assertEquals(8, d.getBack().val, 1e-11);
+        for(int i=0;i<5;i++)
+        {
+            d.deleteBack();
+        }
+        assertEquals(true,d.empty());
+        
+        DoubleChain lst = DoubleChain.list(1,2,3);
+        assertEquals(1,lst.getFront().val,1e-11);
+        assertEquals(""+DoubleChain.list(1,2,3),"<[1.0,2.0,3.0]>");
+        assertEquals(""+DoubleChain.list(1),"<[1.0]>");
     }
 
     public static void main(String[] args) {
-        jh61b.junit.textui.runClasses(TestDoubleChain.class);
+       jh61b.junit.textui.runClasses(TestDoubleChain.class);
     }
 }
