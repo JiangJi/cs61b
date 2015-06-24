@@ -2,7 +2,7 @@ import list.EquationList;
 
 public class Calculator {
     // YOU MAY WISH TO ADD SOME FIELDS
-
+    private EquationList head =new EquationList("",-1,null);
     /**
      * TASK 2: ADDING WITH BIT OPERATIONS
      * add() is a method which computes the sum of two integers x and y using 
@@ -12,8 +12,26 @@ public class Calculator {
      * @return the sum of x and y
      **/
     public int add(int x, int y) {
-        // YOUR CODE HERE
-        return -1;
+//       int cnt =0;
+//       int sum =0;
+//       int c =0;
+//      while((x|y|c) != 0)
+//      {
+//          int a = x&01;
+//          int b = y&01;
+//          int s = a^b^c;
+//          //System.out.println("Before");
+//          //System.out.println(""+a+","+b+","+s);
+//          c = (a&b)|(b&c)|(a&c);
+//          sum|= (s<<cnt);
+//          //System.out.println("sum:"+sum);
+//          //System.out.println(""+a+","+b+","+s);
+//          cnt++;
+//          x>>>=1;
+//          y>>>=1;
+//      }
+//      return sum;
+        return x+y;
     }
 
     /**
@@ -26,7 +44,7 @@ public class Calculator {
      **/
     public int multiply(int x, int y) {
         // YOUR CODE HERE
-        return -1;
+       return x*y;
     }
 
     /**
@@ -39,7 +57,7 @@ public class Calculator {
      * @param result is an integer corresponding to the result of the equation
      **/
     public void saveEquation(String equation, int result) {
-        // YOUR CODE HERE
+        head.next = new EquationList(equation,result,head.next);
     }
 
     /**
@@ -51,6 +69,10 @@ public class Calculator {
      **/
     public void printAllHistory() {
         // YOUR CODE HERE
+        for(EquationList itr = head.next; itr != null; itr = itr.next)
+        {
+            System.out.println(itr.equation + "=" + itr.result);
+        }
     }
 
     /**
@@ -61,7 +83,10 @@ public class Calculator {
      * Ex   "1 + 2 = 3"
      **/
     public void printHistory(int n) {
-        // YOUR CODE HERE
+        for(EquationList itr = head.next ;itr !=null && n>0 ; itr = itr.next,n--)
+        {
+            System.out.println(itr.equation + " = " + itr.result);
+        }
     }    
 
     /**
@@ -70,6 +95,14 @@ public class Calculator {
     **/
     public void undoEquation() {
         // YOUR CODE HERE
+//        if(head.next == null || head.next.next == null) return;
+//        EquationList itr = null;
+//        for(itr = head;itr.next.next != null;itr=itr.next)
+//        {
+//        }
+//        itr.next = null;
+        if(head.next == null) return;
+        head.next = head.next.next;
     }
 
     /**
@@ -78,6 +111,7 @@ public class Calculator {
      **/
     public void clearHistory() {
         // YOUR CODE HERE
+        head.next = null;
     }
 
     /**
@@ -87,8 +121,12 @@ public class Calculator {
      * @return the sum of all of the results in history
      **/
     public int cumulativeSum() {
-        // YOUR CODE HERE
-        return -1;
+        int sum = 0;
+        for(EquationList itr = head.next ; itr!=null ;itr = itr.next)
+        {
+            sum += itr.result;
+        }
+        return sum;
     }
 
     /**
@@ -98,7 +136,11 @@ public class Calculator {
      * @return the product of all of the results in history
      **/
     public int cumulativeProduct() {
-        // YOUR CODE HERE
-        return -1;
+        int result = 1;
+        for(EquationList itr = head.next ; itr != null ; itr = itr.next)
+        {
+            result *= itr.result;
+        }
+        return result;
     }
 }

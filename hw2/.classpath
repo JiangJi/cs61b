@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="/Users/yj/git/skeleton/lib/jh61b.jar"/>
+	<classpathentry kind="lib" path="/Users/yj/git/skeleton/lib/gjdb.jar"/>
+	<classpathentry kind="lib" path="/Users/yj/git/skeleton/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/yj/git/skeleton/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/yj/git/skeleton/lib/StaffGitlet_obf.jar"/>
+	<classpathentry kind="lib" path="/Users/yj/git/skeleton/lib/staffp0_obf.jar"/>
+	<classpathentry kind="lib" path="/Users/yj/git/skeleton/lib/stdlib-package.jar"/>
+	<classpathentry kind="lib" path="/Users/yj/git/skeleton/lib/stdlib.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
