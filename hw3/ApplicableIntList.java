@@ -9,20 +9,55 @@ public class ApplicableIntList{
     public int head;
     /** Remaining elements of list. */
     public ApplicableIntList tail;
-
+    public static void main(String[] args)
+    {
+        ApplicableIntList h = new ApplicableIntList();
+        for(int i=0;i<10;i++)
+        {
+            h.insert(i);
+        }
+        System.out.println(h);
+        h.apply(new IntUnaryFunction() {
+            public int apply(int x)
+            {
+                return 2*x;
+            }
+        });
+        
+        System.out.println(h);
+    }
     /** A list with head HEAD0 and tail TAIL0. */
     public ApplicableIntList(int head0, ApplicableIntList tail0) {
         // REPLACE THIS LINE WITH YOUR SOLUTION
+        head = head0;
+        tail = tail0;
     }
 
     /** A list with null tail, and head = 0. */
     public ApplicableIntList() {
         // REPLACE THIS LINE WITH YOUR SOLUTION
+        head = 0;
+        tail =null;
     }
 
     /** Inserts int i into its correct location, doesn't handle cycles. */
     public void insert(int i) {
         // REPLACE THIS LINE WITH YOUR SOLUTION
+        if(i<head)
+        {
+           tail = new ApplicableIntList(head,tail);
+           head = i;
+        }
+        else
+        {
+            ApplicableIntList itr =this,prev=this;
+            while(itr!=null && i>itr.head)
+            {
+                prev = itr;
+                itr = itr.tail;
+            }
+            prev.tail = new ApplicableIntList(i,prev.tail);
+        }
     }
 
     /** Returns the i-th int in this list.
@@ -30,11 +65,22 @@ public class ApplicableIntList{
      *  Assume i takes on the values [0, length of list - 1]. */
     public int get(int i) {
         // REPLACE THIS LINE WITH YOUR SOLUTION
+        ApplicableIntList itr = this;
+        while(i-- != 0 )
+        {
+            itr = itr.tail;
+        }
+        return itr.head;
     }
 
     /** Applies the function f to every item in this list. */
     public void apply(IntUnaryFunction f) {
         // REPLACE THIS LINE WITH YOUR SOLUTION
+        head = f.apply(head);
+        if(tail!=null)
+        {
+            tail.apply(f);
+        }
     }
 
     /** Returns NULL if no cycle exists, else returns cycle location. */

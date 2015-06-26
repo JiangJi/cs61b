@@ -1,0 +1,6 @@
+public class Animal
+{
+  Stirng name;
+  public Animal() {
+    name = "SuperAnimal";
+    System.out.println(name);

@@ -12,19 +12,21 @@ import static org.junit.Assert.*;
  */
 
 public class TestGuitarString {
-/*    @Test
-    public void testPluckTheAString() {
+  //@Test
+    public static void testPluckTheAString() {
         double CONCERT_A = 440.0;
         GuitarString aString = new GuitarString(CONCERT_A);
         aString.pluck();
-        for (int i = 0; i < 50000; i += 1) {
+        for (int i = 0; i < 500000000; i += 1) {
+            System.out.println(aString.sample());
             StdAudio.play(aString.sample());
             aString.tic();
         }
-    }*/
+    }
 
     /** Calls tests for GuitarString. */
     public static void main(String[] args) {
-        jh61b.junit.textui.runClasses(TestGuitarString.class);
+      //  jh61b.junit.textui.runClasses(TestGuitarString.class);
+        testPluckTheAString();
     }
 } 

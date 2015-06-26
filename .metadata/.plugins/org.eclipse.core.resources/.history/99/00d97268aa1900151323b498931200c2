@@ -1,0 +1,11 @@
+
+public class Test {
+    public static void main(String[] args)
+    {
+        StdDraw.setXscale(0,30);
+        StdDraw.setYscale(0,50);
+        StdDraw.line(0, 0, 20, 20);
+        StdDraw.line(20, 20, 10, 0);
+        StdDraw.line(30, 30, 80, 80);
+    }
+}

@@ -1,0 +1,5 @@
+package synthesizer;
+
+public abstract class AbstractBoundedQueue {
+
+}

@@ -1,0 +1,9 @@
+package synthesizer;
+
+public abstract class AbstractBoundedQueue implements BoundedQueue
+{
+    protected long fillCount;
+    protected int capacity;
+    public abstract int capacity();
+    public abstract int fillCount();
+}

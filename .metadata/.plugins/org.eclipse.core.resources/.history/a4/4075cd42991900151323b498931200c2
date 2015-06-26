@@ -1,0 +1,18 @@
+
+public class Planet {
+    public Planet(double x,double y,double xv,double yv,double mass,String image)
+    {
+        this.x = x;
+        this.y = y;
+        this.xVelocity = xv;
+        this.yVelocity = yv;
+        this.mass = mass;
+        this.img = image;
+    }
+    private double x;
+    private double y;
+    private double xVelocity;
+    private double yVelocity;
+    private double mass;
+    private String img;
+}

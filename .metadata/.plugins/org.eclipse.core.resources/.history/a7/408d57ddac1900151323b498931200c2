@@ -1,0 +1,8 @@
+
+public class Test {
+    public static void main(String[] args)
+    {
+        Planet planet = new Planet(0,0,0,0,0,"starfield.jpg");
+        planet.Draw();
+    }
+}
