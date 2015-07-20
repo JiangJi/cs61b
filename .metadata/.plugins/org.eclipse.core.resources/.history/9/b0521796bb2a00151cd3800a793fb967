@@ -1,0 +1,25 @@
+import java.io.Serializable;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.io.File;
+import java.io.InputStreamReader;
+import java.nio.file.Files;
+
+public class Gitlet implements Serializable {
+    public static final long serialVersionUID = 1L;
+    private CommitNode head;
+    private int commitID;
+    private HashSet<String> stagedFiles;
+    private HashSet<String> rmFiles;
+    private HashMap<String,CommitNode> b2h;
+    public Gitlet()
+    {
+        head = null;
+        currBranch = null;
+        commitTree = null;
+        commitID = 0;
+        currName = "master";
+        firstSHA = "";
+        stagedFiles = new HashSet<String>();
+    }
+}

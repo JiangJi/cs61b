@@ -1,0 +1,25 @@
+import java.util.concurrent.*;
+import java.lang.Thread;
+public class Test
+{
+  private void noStop()
+  {
+    while(true)
+    {}
+  }
+  public static void main()
+  {
+    Test t = new Test();
+    while(true)
+    {
+      Thread = new Thread(new Runnable()
+        {
+          @Override
+          public void run()
+          {
+            t.noStop();
+          }
+        });
+    }
+  }
+}

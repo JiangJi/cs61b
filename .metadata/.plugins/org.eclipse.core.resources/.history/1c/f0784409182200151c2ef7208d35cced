@@ -1,0 +1,65 @@
+public class Trie<Value>
+{
+    private static final int R = 128;
+    private Node root = null;
+    private static class Node
+    {
+        private Object val;
+        private Node[] links = new Node[R];
+    }
+    public Value get(String key)
+    {
+        Node x = get(root,key,0);
+        if(x == null) return null;
+        else return (Value)x.val;
+    }
+    public Node get(Node r,String key,int k)
+    {
+       if(r==null) return null;
+       if(k == key.length()) return r;
+       char ch = key.charAt(k);  
+       return get(r.links[ch],key,k+1);
+    }
+    public void put(String key,Value val)
+    {
+        root = put(root,key,val,0);
+    }
+    public Node put(Node r,String key,Value val,int k)
+    {
+        if(r==null)
+        {
+            r= new Node();
+        }
+        if(k == key.length())
+        {
+            r.val = val;
+            return r;
+        }
+        char ch = key.charAt(k);
+        r.links[ch] = put(r,key,val,k+1);
+        return r;
+    }
+    void visit()
+    {
+        visit(root);
+    }
+    void visit(Node r)
+    {
+       if(r!=null)
+       {
+           if(r.val!=null) System.out.println(" "+r.val);
+           for(Node n : r.links)
+           {
+               visit(n);
+           }
+       }
+    }
+    public static void main(String[] args)
+    {
+        Trie trie = new Trie();
+        trie.put("hello", "Hello");
+        trie.put("dog", "Dog");
+        trie.put("hello world","Hello World");
+        trie.visit();
+    }
+}

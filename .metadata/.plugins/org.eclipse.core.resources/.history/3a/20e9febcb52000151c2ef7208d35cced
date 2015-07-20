@@ -1,0 +1,13 @@
+import java.util.concurrent.*;
+import java.util.*;
+public class ThreadLocalVariable
+{
+    private static ThreadLocal<Integer> value= 
+            new ThreadLocal<Integer>(){
+        private Random rand = new Random(48);
+        protected synchronized Integer initialValue()
+        {
+            return rand.nextInt(10000);
+        }
+    });
+}

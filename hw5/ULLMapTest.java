@@ -8,26 +8,33 @@ import java.util.Iterator;
 
 public class ULLMapTest {
     @Test
-    public void testBasic() {
+    public static void testBasic() {
         ULLMap<String, String> um = new ULLMap<String, String>();
         um.put("Gracias", "Dios Basado");
-        assertEquals(um.get("Gracias"), "Dios Basado");
+       // System.out.println(um.get("Gracias"));
+      //  assertEquals(um.get("Gracias"), "Dios Basado");
     }
 
     
-    /*@Test
-    public void testIterator() {
+    @Test
+    public static void testIterator() {
         ULLMap<Integer, String> um = new ULLMap<Integer, String>();
         um.put(0, "zero");
         um.put(1, "one");
         um.put(2, "two");
         Iterator<Integer> umi = um.iterator();
-        System.out.println(umi.next());
-    }*/
+        while(umi.hasNext())
+        {
+            System.out.println(umi.next());
+        }
+       
+    }
     
 
     /** Runs tests. */
     public static void main(String[] args) {
-        jh61b.junit.textui.runClasses(ULLMapTest.class);
+        //jh61b.junit.textui.runClasses(ULLMapTest.class);
+        testBasic();
+        testIterator();
     }
 } 

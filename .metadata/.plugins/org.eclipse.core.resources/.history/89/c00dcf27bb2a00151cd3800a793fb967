@@ -1,0 +1,9 @@
+import java.io.Serializable;
+public class Gitlet implements Serializable {
+    public static final long serialVersionUID = 1L;
+    private CommitNode head;
+    private int commitID;
+    private HashSet<String> stagedFiles;
+    private HashSet<String> rmFiles;
+    private HashMap<String,CommitNode> b2h;
+}

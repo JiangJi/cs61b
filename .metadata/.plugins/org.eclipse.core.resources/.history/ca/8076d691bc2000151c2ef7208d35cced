@@ -1,0 +1,160 @@
+import java.util.concurrent.*;
+import java.util.*;
+
+import javax.xml.stream.events.StartDocument;
+public class Schedule {
+    private volatile boolean light = false;
+    private volatile boolean water = false;
+    private String thermost = "Day";
+    public void repeat(Runnable event,long initDelay,long period)
+    {
+        scheduler.scheduleAtFixedRate(event, initDelay, period, TimeUnit.SECONDS);
+    }
+    public synchronized String getThermostat()
+    {
+        return thermost;
+    }
+    public synchronized void setThremostat(String str)
+    {
+        thermost = str;
+    }
+    ScheduledThreadPoolExecutor scheduler = 
+            new ScheduledThreadPoolExecutor(10);
+    public void schedule(Runnable event,long delay)
+    {
+        scheduler.schedule(event,delay,TimeUnit.MILLISECONDS);
+    }
+    class LightOn implements Runnable
+    {
+        public void run()
+        {
+            System.out.println("Turning on lights");
+            light = true;
+        }
+    }
+    class LightOff implements Runnable
+    {
+        public void run()
+        {
+            System.out.println("Turning off lights");
+            light = false;
+        }
+    }
+    class WaterOn implements Runnable
+    {
+        public void run()
+        {
+            System.out.println("Turning greenhouse water on");
+            water = true;
+        }
+    }
+    class WaterOff implements Runnable
+    {
+        public void run()
+        {
+            System.out.println("Turning greenhouse water off");
+        }
+    }
+    class ThermostatNight implements Runnable
+    {
+        public void run()
+        {
+            System.out.println("Thermosttat to night setting");
+            setThremostat("Night");
+        }
+    }
+    class ThremostatDay implements Runnable
+    {
+        public void run()
+        {
+            System.out.println("Thremostat to Day setting");
+            setThremostat("Day");
+        }
+    }
+    class Bell implements Runnable
+    {
+        public void run()
+        {
+            System.out.println("bing");
+        }
+    }
+    class Terminate implements Runnable
+    {
+        public void run()
+        {
+            System.out.println("Terminating");
+            scheduler.shutdown();
+            new Thread(){
+                public void run()
+                {
+                    for(DataPoint d: data)
+                    {
+                        system.out.println(d);
+                    }
+                }
+            }.start();
+        }
+    }
+    static class DataPoint {
+        final Calendar time;
+        final float temperature;
+        final float humidity;
+        public DataPoint(Calendar d,float temp,float hum)
+        {
+            time = d;
+            temperature = temp;
+            humidity = hum;
+        }
+        public String toString()
+        {
+            return time.getTime()+String.format("temperature:%1$.1f humidity:%2$.2f", temperature,humidity);
+        }
+    }
+    private Calendar lastTime = Calendar.getInstance();
+    {
+        lastTime.set(Calendar.MINUTE,30);
+        lastTime.set(Calendar.SECOND,60);
+    }
+    private float lastTemp = 65.0f;
+    private int tempDirection = +1;
+    private float lastHumidity = 50.0f;
+    private int humidityDirection = +1;
+    private Random rand = new Random(47);
+    List<DataPoint> data = Collections.synchronizedList(new ArrayList<DataPoint>());
+    class CollectData implements Runnable
+    {
+        public void run()
+        {
+            System.out.println("Collectiing Data");
+            synchronized(Schedule.this){
+                lastTime.set(Calendar.MINUTE,lastTime.get(Calendar.MINUTE)+30);
+                if(rand.nextInt(5) == 4)
+                {
+                    tempDirection = tempDirection;
+                }
+                lastTemp = lastTemp + tempDirection * (1.0f+rand.nextFloat());
+                if(rand.nextInt(5)==4)
+                {
+                    humidityDirection = - humidityDirection;
+                }
+                lastHumidity+= humidityDirection*(1.0f+rand.nextFloat());
+                data.add(new DataPoint((Calendar)lastTime.clone(),lastTemp,lastHumidity));            }
+        }
+    }
+    public static void main(String[] args)
+    {
+        Schedule gh = new Schedule();
+        gh.schedule(gh.new Terminate(), 50000);
+        gh.repeat(gh.new Bell(), 0,1000);
+        gh.repeat(gh.new LightOn(), 0, 200);
+        gh.repeat(gh.new LightOff(),0,400);
+        gh.repeat(gh.new WaterOn(), 0, 600);
+        gh.repeat(gh.new WaterOff(), 0, 800);
+        gh.repeat(gh.new ThremostatDay(),0,1000);
+        gh.repeat(gh.new ThermostatNight(), 0, 1200);
+        gh.repeat(gh.new CollectData(),500,500);
+        
+        
+    }
+    
+}

@@ -1,0 +1,62 @@
+
+public class Trie<Value>{
+    private static final int R=128;
+    private static class Node
+    {
+       Object val ;
+       Node links[];
+       public Node()
+       {
+           links = new Node[R];
+           val =null;
+       }
+    }
+    private Node root = null;
+    public void put(String s)
+    {
+        root = put(root,s,0);
+    }
+    public boolean contains(String s)
+    {
+        Node n = find(s);
+        return n == null;
+    }
+    public void visit()
+    {
+        
+    }
+    public void visit(Node n)
+    {
+        if(n)
+        {
+            
+        }
+    }
+   private Node find(String s)
+   {
+       Node itr = root;
+       int i =0;
+       while(i<s.length() && itr!=null)
+       {
+           char ch = s.charAt(i);
+           itr = itr.links[ch];
+           i++;
+       }
+       return itr;
+   }
+    private Node put(Node r,String s,int k)
+    {
+        if(k == s.length())
+        {
+            return null;
+        }
+        if( r== null)
+        {
+            r = new Node();
+        }
+        char ch = s.charAt(k);
+        r.links[ch]=put(r.links[ch],s,k+1);
+        return r;
+    }
+    
+}

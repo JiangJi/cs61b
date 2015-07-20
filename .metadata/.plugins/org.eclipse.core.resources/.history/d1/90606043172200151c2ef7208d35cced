@@ -1,0 +1,29 @@
+public class Trie<Value>
+{
+    private static final int R = 128;
+    private Node root = null;
+    private static class Node
+    {
+        private Object val;
+        private Node[] links = new Node[R];
+    }
+    public void put(String key,Value val)
+    {
+        root = put(root,key,val,0);
+    }
+    public Node put(Node r,String key,Value val,int k)
+    {
+        if(r==null)
+        {
+            r= new Node();
+        }
+        if(k == key.length())
+        {
+            r.val = val;
+            return r;
+        }
+        char ch = key.charAt(k);
+        r.links[ch] = put(r,key,val,k+1);
+        return r;
+    }
+}

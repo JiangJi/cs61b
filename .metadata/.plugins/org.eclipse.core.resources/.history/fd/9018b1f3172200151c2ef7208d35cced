@@ -1,0 +1,111 @@
+
+public class BST {
+    private final boolean RED = true;
+    private final boolean BLACK = false;
+    class Node
+    {
+        int val;
+        Node left;
+        Node right;
+        boolean color;
+        public Node(int val,Node left,Node right,boolean color)
+        {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+            this.color = color;
+        }
+    }
+    private Node root = null;
+    private boolean isRed(Node r)
+    {
+       if(r== null) return false;
+       return r.color == RED;
+    }
+    Node leftRotation(Node r)
+    {
+        Node right = r.right;
+        right.color = r.color;
+        r.color = RED;
+        r.right = right.left;
+        right.left = r;
+        return right;
+    }
+    Node rightRotation(Node r)
+    {
+        Node left = r.left;
+        left.color = r.color;
+        r.color = RED;
+        r.left = left.right;
+        left.right = r;
+        return left;
+    }
+    Node flipColor(Node r)
+    {
+        r.color = RED;
+        r.left.color = BLACK;
+        r.right.color = BLACK;
+        return r;
+    }
+    public void put(int val)
+    {
+        root = put(root,val);
+        root.color = BLACK;
+    }
+    private Node put(Node r,int val)
+    {
+        if(r == null)
+        {
+            return new Node(val,null,null,RED);
+        }
+        if(val < r.val)
+        {
+            r.left = put(r.left,val);
+        }
+        else if(val > r.val)
+        {
+            r.right = put(r.right,val);
+        }
+        if(!isRed(r.left) && isRed(r.right))
+        {
+            r = leftRotation(r);
+        }
+        if(isRed(r.left) && isRed(r.left.left))
+        {
+            r = rightRotation(r);
+        }
+        if(isRed(r.left) && isRed(r.right))
+        {
+            r = flipColor(r);
+        }
+        return r;
+    }
+    void visit(Node r)
+    {
+        if(r!=null)
+        {
+            visit(r.left);
+            System.out.print(r.val+" ");
+            visit(r.right);
+        }
+    }
+    int height(Node r)
+    {
+        if(r== null) return 0;
+        else return Math.max(height(r.left), height(r.right))+1;
+        
+    }
+   public  int height()
+    {
+        return height(root);
+    }
+    public static void main(String[] args)
+    {
+        BST bst = new BST();
+        for(int i=0;i<1000;i++)
+        {
+            bst.put(i);
+        }
+        System.out.println("The height is "+bst.height());
+    }
+}

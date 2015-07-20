@@ -1,0 +1,8 @@
+
+public class Trie {
+    private static final int R=128;
+    class Node
+    {
+        
+    }
+}

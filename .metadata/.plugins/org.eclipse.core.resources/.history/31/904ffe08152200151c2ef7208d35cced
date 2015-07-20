@@ -1,0 +1,20 @@
+
+public class Trie {
+    private static final int R=128;
+    class Node
+    {
+       Node links[];
+       public Node()
+       {
+           links = new Node[R];
+       }
+    }
+    private Node root = null;
+    public void put(String s)
+    {
+        root = put(root,s,0);
+    }
+    private Node put(Node r,String s,int k)
+    {
+    }
+}

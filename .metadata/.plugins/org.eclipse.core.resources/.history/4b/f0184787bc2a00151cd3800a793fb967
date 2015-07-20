@@ -1,0 +1,70 @@
+import java.io.File;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.io.IOException;
+import java.security.NoSuchAlgorithmException;
+import java.nio.file.Paths;
+import java.text.SimpleDateFormat;
+import java.security.MessageDigest;
+import java.util.Date;
+import java.util.HashSet;
+import java.util.HashMap;
+import java.io.Serializable;
+
+import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
+public class CommitNode {
+    private static final long serialVersionUID = 1L;
+    private static final int HASHFRIEND = 0xff;
+    private static int commitCount;
+    private int commitID;
+    private String sha;
+    private String base;
+    private String commitMessage;
+    private String branchName;
+    private Date d;
+    private String dataFormatted;
+    private CommitNode prev;
+    private CommitNode replay;
+    private HashMap<String,CommitNode> nextNodes;
+    private HashSet<String> oldFiles;
+    private HashSet<String> allFiles;
+    private HashSet<String> newFiles;
+    private HashSet<String> rmFiles;
+    private HashMap<String,CommitNode> fileLastCommited;
+    private boolean isReplay,isSkip;
+    public CommitNode(CommitNode p,String branch,String msg,HashSet<String> staged,
+            HashSet<String> removed,CommitNode replayNode,boolean isSkip)
+            {
+        this.isReplay = isReplay;
+        this.isSkip = isSkip;
+        this.commitID = commitCount++;
+        prev = p;
+        nextNodes = new HashMap<String,CommitNode>();
+        replay = replayNode;
+        isReplay = (replay!=null);
+        branchName = branch;
+        d =new Date();
+        SimpleDateFormat A = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+        dataFormatted = A.format(d);
+        oldFiles = new HashSet<String>();
+        newFiles = staged;
+        rmFiles = removed;
+        this.sha = makeSHA();
+        fileLastCommited = new HashMap<String,CommitNode>();
+        if(p!=null)
+        {
+            HashMap<String,CommitNode> prevMap = p.getFileMap();
+            for(String a : prevMap.keySet())
+            {
+                if(!rmFiles.contains(a))
+                {
+                    this.fileLastCommited.put(a, prevMap.get(a));
+                }
+            }
+            p.nextNodes.put(branch,this);
+            p.addNext(branch,this);
+        }
+          
+            
+            }
+}

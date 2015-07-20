@@ -1,0 +1,21 @@
+
+public class RBTree {
+    private static final boolean RED = true;
+    private static final boolean BLACK = false;
+    class Node
+    {
+        int val;
+        Node left;
+        Node right;
+        Color color;
+    }
+    private boolean isRed(Node n)
+    {
+        if(n==null) return false;
+        return n.color == Color.RED;
+    }
+    public static void main(String[] args)
+    {
+        
+    }
+}

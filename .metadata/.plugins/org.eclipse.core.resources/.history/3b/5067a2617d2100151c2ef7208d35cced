@@ -1,0 +1,16 @@
+
+public class RBTree {
+    enum Color { RED,BLACK};
+    class Node
+    {
+        int val;
+        Node left;
+        Node right;
+        Color color;
+    }
+    private boolean isRed(Node n)
+    {
+        if(n==null) return false;
+        return n.color == Color.RED;
+    }
+}

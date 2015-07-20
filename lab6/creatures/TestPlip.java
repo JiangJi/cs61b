@@ -1,13 +1,14 @@
 package creatures;
-import org.junit.Test;
 import static org.junit.Assert.*;
-import java.util.HashMap;
-import java.awt.Color;
-import huglife.Direction;
 import huglife.Action;
-import huglife.Occupant;
+import huglife.Direction;
 import huglife.Impassible;
-import huglife.Empty;
+import huglife.Occupant;
+
+import java.awt.Color;
+import java.util.HashMap;
+
+import org.junit.Test;
 
 /** Tests the plip class   
  *  @authr FIXME
@@ -32,11 +33,14 @@ public class TestPlip {
 
     @Test
     public void testReplicate() {
-
+        Plip  p= new Plip(2);
+        Plip p2 = p.replicate();
+       // assertEquals(p,p2);
+        assertNotSame(p,p2);
     }
 
-    //@Test
-    public void testChoose() {
+    
+    public static void testChoose() {
         Plip p = new Plip(1.2);
         HashMap<Direction, Occupant> surrounded = new HashMap<Direction, Occupant>();
         surrounded.put(Direction.TOP, new Impassible());
@@ -55,6 +59,7 @@ public class TestPlip {
     }
 
     public static void main(String[] args) {
-        System.exit(jh61b.junit.textui.runClasses(TestPlip.class));
+       // System.exit(jh61b.junit.textui.runClasses(TestPlip.class));
+        testChoose();
     }
 } 

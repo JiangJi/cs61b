@@ -1,0 +1,44 @@
+
+public class BST {
+    private final boolean RED = true;
+    private final boolean BLACK = false;
+    class Node
+    {
+        int val;
+        Node left;
+        Node right;
+        boolean color;
+        public Node(int val,Node left,Node right,boolean color)
+        {
+            this.val = val;
+            this.left = left;
+            this.right = right;
+            this.color = color;
+        }
+    }
+    private boolean isRed(Node r)
+    {
+       if(r== null) return false;
+       return r.color == RED;
+    }
+    Node leftRotation(Node r)
+    {
+        
+    }
+    private Node put(Node r,int val)
+    {
+        if(r == null)
+        {
+            return new Node(val,null,null,RED);
+        }
+        if(val < r.val)
+        {
+            r.left = put(r.left,val);
+        }
+        else if(val > r.val)
+        {
+            r.right = put(r.right,val);
+        }
+        
+    }
+}

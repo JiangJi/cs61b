@@ -36,12 +36,14 @@ public class Bin15 {
     
     @Override
     public boolean equals(Object o) {
-        return false; // YOUR CODE HERE
+        return myBinStr.equals(((Bin15)o).myBinStr);
+        //return false; // YOUR CODE HERE
     }
     
     @Override
     public int hashCode() {
-        return -1; // YOUR CODE HERE
+        return 1;
+        //return -1; // YOUR CODE HERE
     }
 
     /* DO THIS LAST, AFTER IMPLEMENTING EVERYTHING

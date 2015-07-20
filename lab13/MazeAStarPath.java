@@ -1,4 +1,6 @@
 import java.util.Observable;
+import java.util.PriorityQueue;
+import java.util.Comparator;
 /** 
  *  @author Josh Hug
  */
@@ -20,6 +22,7 @@ public class MazeAStarPath extends MazeExplorer {
 
     /** Estimate of the distance from v to the target. */
     private int h(int v) {
+        return distance(t,v);
     }
 
     /** Finds vertex estimated to be closest to target. */
@@ -29,7 +32,82 @@ public class MazeAStarPath extends MazeExplorer {
     }
 
     /** Performs an astar search from vertex s. */
+    private int distance(int sourceX,int sourceY,int targetX,int targetY)
+    {
+        return Math.abs(sourceX-targetX)+Math.abs(sourceY-targetY);
+    }
+    private int distance(int v,int w)
+    {
+        int sourceX = maze.toX(v);
+        int sourceY = maze.toY(v);
+        int targetX = maze.toX(w);
+        int targetY = maze.toY(w);
+        return distance(sourceX,sourceY,targetX,targetY);
+     }
+    @SuppressWarnings("unchecked")
     private void astar(int s) {
+        @SuppressWarnings("rawtypes")
+        PriorityQueue<Integer> pq =new PriorityQueue<Integer>(maze.V(),
+                new Comparator()
+        {
+
+            @Override
+            public int compare(Object lhs, Object rhs) {
+                // TODO Auto-generated method stub
+//                if(distTo[(Integer)lhs]< distTo[(Integer)rhs])
+//                {
+//                    return -1;
+//                }
+//                else if(distTo[(Integer)lhs] > distTo[(Integer)rhs])
+//                {
+//                    return 1;
+//                }
+//                else
+//                {
+//                    return 0;
+//                }
+                if(h((Integer)lhs) < h((Integer)rhs))
+                {
+                    return -1;
+                }
+                else if(h((Integer)lhs) > h((Integer)rhs))
+                {
+                    return 1;
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+            
+        });
+        if(s == t)
+        {
+            return;
+        }
+        pq.add(s);
+        while(!pq.isEmpty())
+        {
+            int v = pq.remove();
+            marked[v] =true;
+            announce();
+            if(v == t) return;
+            if(true)
+            {
+                for(int w : maze.adj(v))
+                {
+                   // distTo[w] = Math.min(distTo[v]+1,distTo[w]);
+                    if(distTo[w] > distTo[v]+1)
+                    {
+                        distTo[w] = distTo[v]+1;
+                        edgeTo[w] = v;
+                        announce();
+                        pq.add(w);
+                    }
+                }
+            }
+            marked[v] = true;
+        }    
     }
 
     @Override

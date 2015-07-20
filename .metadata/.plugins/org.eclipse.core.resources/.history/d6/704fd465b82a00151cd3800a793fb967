@@ -1,0 +1,23 @@
+import java.util.ArrayList;
+import java.io.Serializable;
+public class Branch implements Serializable{
+    private static final long serialVersionUID = 1L;
+    private String name;
+    private CommitNode head;
+    private ArrayList<Branch> subbranches;
+    public Branch(CommitNode bhead,String bname)
+    {
+        this.head = bhead;
+        this.name = bname;
+        this.subbranches = new ArrayList<Branch>();
+    }
+    public void addSubranch(CommitNode bhead,String name)
+    {
+        Branch d = new Branch(bhead,name);
+        subbranches.add(d);
+    }
+    public void addSubranch(Branch b)
+    {
+        subbranches.add(b);
+    }
+}

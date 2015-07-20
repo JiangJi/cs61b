@@ -9,7 +9,7 @@ import org.junit.Test;
 
 public class CardAutoGrader /*extends jh61b.grader.Autograder*/ {
 
-    // @Test61B(name = "Card Perfect Hash Check")
+    //@Test61B(name = "Card Perfect Hash Check")
     public static void testHashCodes() {
         // First generate all of the possible cards in order
         ArrayList<Card> c1 = makeFullHand();
@@ -47,7 +47,7 @@ public class CardAutoGrader /*extends jh61b.grader.Autograder*/ {
     }
 
     public static void main(String[] args) {
-        // runStaticTests(CardAutoGrader.class);
+        //runStaticTests(CardAutoGrader.class);
         testHashCodes();
         System.out.println("All tests passed!");
     }

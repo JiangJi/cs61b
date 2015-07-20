@@ -9,6 +9,7 @@ public class FibonacciMemo {
      * @param n
      * @return The nth fibonacci number
      */
+    private static HashMap<Integer,Integer> memo = new HashMap<Integer,Integer>();
     public static int fibNoMemo(int n) {
         if (n <= 1) {
             return n;
@@ -25,7 +26,23 @@ public class FibonacciMemo {
      */
     public static int fibMemo(int n) {
         // YOUR CODE HERE
-        return 0;
+        if(n<=1)
+        {
+            return n;
+        }
+        else
+        {
+            if(memo.get(n)!=null)
+            {
+                return memo.get(n);
+            }
+            else
+            {
+                int res = fibMemo(n-1)+fibMemo(n-2);
+                memo.put(n,res);
+                return res;
+            }
+        }
     }
 
     /**
@@ -49,7 +66,7 @@ public class FibonacciMemo {
         System.out.println("2: " + FibonacciMemo.fibNoMemo(2));
         System.out.println("3: " + FibonacciMemo.fibNoMemo(3));
         System.out.println("4: " + FibonacciMemo.fibNoMemo(4));
-
+        System.out.println(fibMemo(47));
         // 46th Fibonacci = 1,836,311,903
         // 47th Fibonacci = 2,971,215,073
     }

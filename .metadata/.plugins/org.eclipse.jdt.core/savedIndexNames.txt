@@ -1,16 +1,4 @@
-INDEX VERSION 1.127+/Users/yj/git/skeleton/.metadata/.plugins/org.eclipse.jdt.core
-3141775227.index
-930628701.index
-3726369128.index
-623327960.index
-575340225.index
-1431162455.index
-948122708.index
-2310885775.index
-3703194086.index
-650109419.index
-2241634564.index
+INDEX VERSION 1.127+/Users/yj/ucb/cs61b/.metadata/.plugins/org.eclipse.jdt.core
+1804779560.index
 2926646759.index
-3290137095.index
-1082094795.index
-1366984599.index
+3765020915.index

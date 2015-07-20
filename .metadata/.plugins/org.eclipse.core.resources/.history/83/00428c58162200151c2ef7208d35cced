@@ -1,0 +1,10 @@
+public class Trie<Value>
+{
+    private static final int R = 128;
+    private static class Node
+    {
+        Object val;
+        Node links[R];
+        
+    }
+}
