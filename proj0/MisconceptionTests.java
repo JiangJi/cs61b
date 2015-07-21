@@ -3,7 +3,6 @@ import static org.junit.Assert.*;
 /** 
  *  @author Josh Hug
  */
-
 public class MisconceptionTests {
 
     @Test
