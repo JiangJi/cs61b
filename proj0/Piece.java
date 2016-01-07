@@ -2,8 +2,16 @@
 public class Piece {
     boolean isFire;
     String type;
+    public int x;
+    public int y;
+    String getImage()
+    {
+        return "img/"+type+(isFire() ? "-fire" : "-water")+ (isKing() ? "-crowned" : "")+".png";
+    }
     public Piece(boolean isFire,Board b,int x,int y,String type)
     {
+        this.x = x;
+        this.y = y;
         this.isFire = isFire;
         b.place(this, x, y);
         this.type = type;

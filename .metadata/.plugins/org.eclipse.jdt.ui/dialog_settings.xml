@@ -6,11 +6,13 @@
 	<item value="993" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_width"/>
 	<item value="16" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_x"/>
 	<item value="23" key="org.eclipse.jdt.uiformatter_pagemodify_dialog.preferred_y"/>
-	<item value="/Users/yj/git/skeleton/lib" key="org.eclipse.jdt.ui.lastextjar"/>
+	<item value="/Users/yj/ucb/cs61b/lib" key="org.eclipse.jdt.ui.lastextjar"/>
 	<item value="1" key="org.eclipse.jdt.uiformatter_page.line_wrapping_tab_page.last_category_index"/>
 	<item value="0" key="org.eclipse.jdt.uiformatter_page.white_space.java_view.inner"/>
 	<item value="/Users/yj/git/skeleton/lib/jh61b.jar" key="org.eclipse.jdt.ui.lastuserlibrary"/>
 	<item value="480,442" key="UserLibraryLoadSaveDialog.size"/>
+	<section name="org.eclipse.ltk.ui.refactoring.settings">
+	</section>
 	<section name="org.eclipse.jdt.internal.ui.packageview.PackageExplorerPart">
 		<item value="2" key="layout"/>
 		<item value="true" key="group_libraries"/>
@@ -21,6 +23,8 @@
 	<section name="NewClassWizardPage">
 		<item value="false" key="create_constructor"/>
 		<item value="true" key="create_unimplemented"/>
+	</section>
+	<section name="RenameInformationPopup">
 	</section>
 	<section name="ClasspathContainerSelectionPage">
 		<item value="3" key="index"/>
