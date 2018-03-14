@@ -1,0 +1,718 @@
+Vaccine delivery, Part 1vectors of delivery
+
+Learning objectives
+Be able to describe examples of vectors of vaccine delivery.
+Be able to describe examples of routes of vaccine delivery.
+Describe advantages and disadvantages of mechanical delivery systems.
+Describe advantages and disadvantages of live vector delivery systems.
+Describe advantages and disadvantages of synthetic delivery systems.
+Understand the immunological mechanisms underlying the basis for different routes of delivering a vaccine.
+
+Vaccine delivery
+Vectors of delivery:Mechanical, microbes, synthetic
+Routes of delivery:Parenteral, transdermal, mucosal(oral + aerosol)
+
+Mechanical/physical vectors: 
+Transcutaneous vaccine delivery
+Scarification
+Electroporation
+Iontophoresis
+Sonophoresis
+Jet injectors
+Patch formulations
+Microneedles
+Nanoparticles
+Lipid-based vesicles
+
+Scarification <- small pox
+4
+
+Physical/Mechanical devices to deliver vaccines via the skin
+Epidermis: tattoo device/ powder particle injection
+Langerhans cell in dermis (liquid jet injection/microinjection/microneedles/gold particle injection)
+
+Needle-free transdermal vaccine delivery methods
+Particle bombardment (Gene gun)
+Jet injection (Bioject): 
+Microinjection:
+Less painful than hypdermic needle
+Can delivery 100 ul of liquid
+Now approved for use to deliver influenza  vaccine
+in the elderly (Fluzone®)
+
+
+6
+Muscle: high vascularity -> high mobilization and processing of antigen
+Subcutaneous : dendritic cells  langerhan cells
+Intradermal: dermis and epidermis of human skin are rich in antigen-presenting cells, suggesting that delivery of vaccines to these layers
+should be more efficient and induce protective immune responses with smaller amounts of vaccine antigen.
+
+Maximize antigen presentation
+
+Microneedle arrays
+Arrays coated or impregnated with vaccine antigen to be delivered
+Solid microneedles: titanium, glass, silicon, stainless steel
+Hollow microneedles:Same materials as above but hollow in center
+Self-dissolving microneedles: PLG, PLGA (poly-l-glutamic acid), sugar
+
+Dissolvable microneedle array
+8
+
+The Lancet 2017 390, 649-658DOI: (10.1016/S0140-6736(17)30575-5) 
+Copyright © 2017 Elsevier Ltd Terms and Conditions
+9
+Microneedle patch for influenza vaccination
+
+(A) The microneedle patch contains an array of 100 microneedles measuring 650 μm tall that is mounted on an adhesive backing. (B) The microneedle patch is manually administered to the wrist, enabling self-administration by study participants. (C) Microneedles encapsulate influenza vaccine (represented here by blue dye) within a water-soluble matrix. (D) After application to the skin, the microneedles dissolve, thereby depositing vaccine in the skin and leaving behind a patch backing that can be discarded as non-sharps waste.
+
+
+
+Tattoo device
+Uses oscillating needles
+Able to cover a large skin area
+Used to delivery DNA
+Induced similar levels of
+immune response compared to
+gene gun, but 10-fold higher dose
+of vaccine required for tattoo device (HPV type 16 derived peptide)
+Painful!!
+
+
+Jet injectors
+Liquid jet injectors
+Around since the 1930s
+Delivers liquid stream at velocity of ~100m/sec
+Can deliver antigens into muscle, subcutaneous, dermal, or epidermal layer, depending on the pressure
+More costly than needle devices; requires maintenance of multi-use devices
+May cause pain and swelling at injection site; blood vessel damage
+
+Jet injectors—cont.
+Ballistic (Solid particle) jet injectors:
+Gene gun—used to deliver DNA
+Costly; not appropriate for mass vaccination now
+Particle-mediated epidermal delivery systems:
+Injects particles/powder into the skin
+Particles: 
+Gold
+Sugar
+
+
+Implementation issues for a new mechanical delivery device
+Can it be used for mass vaccination?
+Easy and intuitive to use?
+Broadly applicable to different skin types that depend on age, gender, and body weight?
+Can it be used to deliver vaccines already in use without changing their properties or formulations?
+Cost considerations
+13
+
+Other delivery vectors
+Live vectors: Viral, Bacterial
+Synthetic vectors: Nanoparticles
+                   Virus-like particles (VLPs).     <- Hpv
+                   Liposomes/virosomes
+                   PLGA
+
+
+Recombinant viral vectors used for vaccine delivery
+DNA viruses:
+Vaccinia
+Herpes simplex
+Adenovirus
+Papovaviruses SV40
+Polyoma virus
+Adeno-associated virus 2
+
+RNA viruses:
+Moloney murine leukemia virus (Mo-MLV)
+Poliovirus (+ strand RNA)
+Paramyxovirus (- strand RNA)(measles, RSV)
+Orthomyxovirus (influenza)
+Alpha virus
+
+15
+
+Viral vectors: advantages
+Contains only antigens of interest
+Relatively safer compared to attenuated live pathogens
+Viruses express antigens intracellularly, thus stimulating antigen processing and presentation by MHC class I pathway
+Replication-competent viruses can replicate inside cells, thus enhancing antigen delivery
+Replication-incompetent viruses can establish persistence (prevents cell lysis)
+Can express multiple antigens as a combination vaccine
+16
+
+Viral vectors: potential disadvantages
+Integration 
+Transcriptional activation of oncogenes
+Effect of pre-existing immunity against the viral vector
+Adenovirus for AIDS failed because pre-existing immunity against the adenovirus
+17
+
+Requirements of a viral vector
+Attenuation:
+	deletion of genes involved in pathogenicity (e.g., thymidine kinase in herpesvirus)
+	vaccinia strain NYVAC (deleted in multiple genes)
+Restricted for growth in target cells:
+	deletion in gene required for growth (e.g., E1 region in adenovirus)
+	naturally attenuated vectors (canarypox virus replicates only in avian cells)
+Immunogenicity:
+	Enhance antigen presentation
+	Establish memory
+
+18
+
+Vaccinia recombinant vaccines
+Vaccine			             Protection in
+Rabies				mice, raccoons, foxes, dogs
+Measles				mice, rats, dogs
+Yellow fever			mice
+Japanese encephalitis virus	mice, swine
+Human papilloma virus		mice, rats
+Lassa fever virus			guinea pigs, cattle
+Equine influenza virus		mice, swine
+Venezuelan equine encephalitis v. 	mice, monkeys, horses
+Avian influenza virus		chickens
+SIV				macaques
+HIV				phase I, II trials completed
+
+19
+
+Herpesvirus recombinant vaccines
+Vaccine			           Protection in
+hog cholera virus		swine
+foot and mouth disease v.	calves
+turkey herpesvirus		chickens (Marek’s disease)
+
+20
+
+Recombinant adenovirus vectors
+rADs (Ad5) used as oral vaccines since 1969 in military recruits to prevent respiratory infection
+used to express: HBsAg, herpesvirus antigens, rabies virus glycoprotein, RSV antigens, rotavirus, HIV antigens
+21
+
+Bacterial delivery systems
+Salmonella typhimurium
+Escherichia coli
+Shigella flexneri
+Listeria monocytogenes
+BCG
+Lactobacillus?    <- induce mucosal surface STI
+22
+Why these bacteria? intracellular
+
+Synthetic oral delivery systems:
+immune stimulating complexes (ISCOMs) 
+liposomes
+virus-like particles
+micro- and nanoparticles 
+β-glycans
+Particulate antigen delivery systems 
+Tat (HIV)
+VP22 (Herpesvirus)
+Penetratin (Antennapedia)
+transportan 
+model amphipathic peptide 
+Inv3 (M. tuberculosis)
+Protein or peptide -based delivery (cell-penetrating peptides, or CPPs)
+23
+Inv3 + botox
+
+PH275: Vaccine delivery, Part 2:Route of delivery
+
+Routes of administration
+Parenteral:
+	IM
+	Intradermal
+	Subcutaneous
+	Peritoneal
+Mucosal
+ Oral
+ Aerosol
+ Intranasal
+ Intravaginal
+ Rectal
+ Conjunctival
+ Transdermal
+Peritoneal: into the belly
+Intermuscular: systematically delivered
+Subcutaneous: dendritic cells (antigen presenting, T cell response)
+
+Mucosal surface is the largest organ of the body > skin
+
+
+Rationale to consider different routes of delivery of a vaccine
+Biologic reasons:
+	Enhancing systemic immune response
+	Enhancing herd immunity.   <-mucosal (shed) 
+	Directing local immune response
+		e.g. inducing strong mucosal immune response to protect against STIs
+Safety reasons:
+	Elimination of needles and syringes a high priority--Global Alliance on Vaccines and Immunization (GAVI) 
+Practical reasons:
+	Decrease dose
+	Ease of administration, ease of re-administration
+	Ease of distribution
+3
+STI: mucosal surface (IgA, IgG)
+Safety: Pain, needle reuse in Egypt and HCV infection
+GAVI: provide vaccine in affordable price
+Reduce cost, avoid cold chain
+
+Oral delivery of vaccines
+Advantages
+	Self administration
+	No need for trained personnel
+	decreased cost
+	stimulates mucosal immune response
+	avoids risk of transmitting infections by needles
+	no disposal concerns
+	protective mucosal immunity may develop earlier in life; may not be affected by maternal antibody
+Disadvantages:
+	Differential bioavailability <- variance uptake amount
+	Possibility of establishing tolerance
+	Formulation may be difficult
+	Difficulty in using non-living vaccines
+
+4
+
+Challenges to oral vaccine delivery
+Gastric pH
+Solution:
+ Acid-resistant enteric coating materials: 
+	methacrylic acid
+	hydroxypropyl methylcellulose phthalate
+	Eudragit (poly (methacrylic acid-co-ethylacrylate) copolymers)—facilitates controlled release
+5
+
+Challenges to oral vaccine delivery—cont.
+Intestinal peristaltic movement.     <-quick movement, less absorb
+Capture by mucus and glycocalyx 
+Attack by digestive enzymes (proteases, lipases, nucleases, bile, lactoferrin and peroxidases)
+Solution: 
+Target M cells: Ulex europaeus agglutinin-1 (UEA-1)
+Target DCs: TLR9 ligands, CpG-containing oligodeoxynucleotides (CpG-ODNs), or PLG-encapsulated CpG+vaccine antigens
+
+M cells: immune surveilance, pathogens use it to go into the body, because its short and no microvili, easier to attach
+6
+
+Challenges to oral vaccine delivery—cont.
+1 Epithelial cell transport
+Solution:
+	Chitosan: a mucoadhesive molecule--reorganizes the structure of the tight junction
+	PLG-encapsulated particles
+Antigens need to go though the epithelial cells and reach the base cells
+2 Induction of tolerance. <- increase the concentration of Ag
+Solution:
+Enhance adjuvanticity (particulate antigens)
+ β-glucan microparticle
+ PLGA:  poly(d,l-lactide-co-glycolide)
+ Exosomes: nanovesicles released by eukaryotic cells.   <-package Ag
+ Virus-like particles
+ Spray-dried polyelectrolyte microspheres
+
+
+Other factors that challenge oral vaccine delivery
+Age
+Nutritional status
+Intestinal microbiota     
+Host genetics
+Age: not able to absorb/very acid stomach
+# Intestinal microbiota   : oral typhi vaccine
+
+Synthetic oral delivery systems:
+Particulate antigen delivery systems: 
+ immune stimulating complexes (ISCOMs) 
+ liposomes
+ virus-like particles
+ micro- and nanoparticles 
+ β-glycans
+
+Particle-based antigen delivery systems
+Immune stimulating complexes (ISCOMs)
+ saponin, cholesterol, phospholipid
+ Initially made from membrane proteins of parainfluenza, measles, and rabies viruses
+ Used as adjuvant
+Liposomes
+Virus-like particles
+Polymer-based micro- and nanoparticles: PLG, PLGA
+β-glycans
+
+
+ISCOM: all lipid related, go into the cells easier 
+11
+
+Particle-based antigen delivery systems—cont.
+β-glycans:
+carbohydrate polymers found in the cell walls of yeast, bacteria, plants
+potent activators of the innate immune system
+strong adjuvant effect
+Selectively targets gut-associated lymphoid tissue (GALT) and Peyers patch (M cells)
+facilitates rapid transport into epithelial cells
+
+General features of particle-based oral vaccine design:
+Designed primarily to minimize tolerance
+Nanoparticles more immunogenic than microparticles
+Positively-charged particles induce stronger cytotoxic T cell response
+Surface hydrophobicity
+ Hydrophobic (lipid) particles bind to M cells better
+ Hydrophilic particles translocate to intracellular compartments more efficiently
+
+Deliver the vaccine in very concentrated manner
+Nano > micro , because smaller are esier to be taken
+
+
+13
+
+Other synthetic oral delivery systems:
+Protein or peptide -based delivery (cell-penetrating peptides, or CPPs)
+ Tat (HIV)
+ VP22 (Herpesvirus)
+ Penetratin (Antennapedia)
+ transportan 
+ model amphipathic peptide 
+ Inv3 (M. tuberculosis): 21-amino acid peptide
+
+Highly basic, short, complex to carrier
+14
+
+M. tuberculosis and HeLa cell
+Hela is epithelial, should not take anything into the cell, the bacteria make itself be upaken
+
+16
+
+Colloidal gold particles
+(5 nm) entering HeLa
+cells
+17
+
+Colloidal gold particles
+inside HeLa cells
+18
+Into phagosome compartment induce MHC-2
+Into cytoplasm induce MHC-1
+
+Vaccines administered transdermally:
+BCG
+Smallpox (bifurcated needle)
+
+Transdermal vaccines
+Rationale:
+	Easy accessibility
+	Site of potent antigen presenting cells (APCs)
+		Langerhans cells in epidermis (expresses langerin, lectin receptor)
+		Dermal dendritic cells
+		Both types of cells express large amounts of CD1
+     		molecules (which present lipid antigens)
+		Several subsets of dendritic cells found in skin
+			Langerin-negative DCs: CD1a+, CD14+ (Th1 bias) and CD141hi
+		CD103+, CD141hi  DCs cross-prime CD8+ T cells
+	CD4+ cells--Th1, Th2, Th17 and Th22 
+Skin important: lots of immune cells
+    
+20
+
+Transdermal vaccines—cont.
+Rationale—cont.
+ Lower dose of vaccine needed: Example--Influenza vaccine: intradermal vaccine just as     effective as IM vaccine delivery, but required 10-20% of the IM antigen dose (Kenny RD et al, N Engl J Med 2004)
+ Can be used with adjuvants
+  Choleratoxin (CT). ADP-ribosylating exotoxins
+  ETEC heat-labile toxin (LT)  ADP-ribosylating exotoxins
+  Adjuvants that stimulate TLRs (e.g., CpG oligodeoxynucleotides (ODN))
+
+
+Topical transcutaneous vaccines (no mechanical penetration of stratum corneum— “skin patch”)—passive targeting
+Requires proteins <500 daltons
+Mechanism:
+ Generation of a concentration gradient 
+ Widening of intracellular gaps by hydration 
+ Transfollicular diffusion (hair follicles)
+22
+Through hair to the deeper layers of skin
+
+Topical transcutaneous vaccines: passive targeting—cont.Hydrogel
+Liposomes
+Transfersomes
+ Vesicular particles made of phospholipid, surfactant, and water
+Niosomes
+ Non-ionnic surfactant lamellar vesicular particles
+Cell penetrating peptides
+
+
+Transcutaneous vaccines—cont.
+Immunostimulatory patch
+E. coli heat-labile toxin (LT) placed topically induces migration of activated antigen-presenting cells (APCs) from the skin to the local draining lymph nodes (GM Glenn et al, Vaccine 2007; R McKenzie et al, Vaccine 2007)
+Showed promise in delivering influenza vaccine
+ LT-patch placed at the site of vaccine injection
+ Enhanced delivery of APCs loaded with the vaccine antigens to the local draining lymph nodes
+Live measles vaccine (phase I/II): induced strong salvary IgA response and IFN-γ producing T cells, but not MV-specific serum antibodies (N Etchart et al, Vaccine, 2007)
+
+
+Transcutaneous vaccines—limitations
+Requires strong adjuvant (would otherwise induce tolerance)
+May induce biased response (to Th2, favoring IgE response)
+May fail to induce serum antibody response
+25
+Without adjuvant: induce tolerance
+
+
+Summary of transdermal delivery
+Injection techniques: jet injection, powder injection
+Microporation techniques: 
+Micro needles: solid, coated, dissolving, hollow
+Thermal microporation: resistive filaments radiofrequency
+Laser portion
+LTR techniques:
+Electroporation sonoporation
+Disruptive approaches:
+Waxing, tape stripping abrasion
+Passive approaches:
+Occlusive patches, hydrogel patches, liposomal formulations
+Use tape to remove dead skin
+26
+
+Clinical trials
+Phase II trial of LT delivered by patch formulation: 75% protective efficacy against moderate-severe diarrhea among travelers (Glenn GM et al, Nature Med. 2000).
+Phase I/II trial of live, attenuated measles vaccine delivered by patch formulation: Induced antigen-specific immune response (Etchart N et al, Vaccine 2007)
+INTANZA/IDFlu: Intradermal microneedle-formulation—licensed in Europe and Australia (2009); US (2011)
+Dissolvable microneedle patch (2017)
+Delivery level depends on the force
+27
+Adjuvants and other immunomodulators for vaccines
+Learning objectives
+Define adjuvants
+Describe the rationale behind the use of vaccine adjuvants
+Name the 3 classes of adjuvants based on function 
+Describe the known mechanism of action of adjuvants
+
+Adjuvants Definition: a substance, when added to a vaccine, will enhance the immunogenicity of an antigen.
+# Induce immune response
+
+Adjuvants used in humans—past and current products
+Aluminum hydroxide: used since 1926 with diphtheria toxoid; only approved adjuvant for human use in the US
+Freund’s adjuvants (complete/incomplete): made from killed mycobacteria mixed in oil-water emulsion (1936); FCA most potent adjuvant known
+Detoxified LPS from Gram-negative bacteria (1950s)
+Muramyldipeptide (MDM): mycobacterial component in FCA that has the adjuvant activity (1974)
+Bacterial CpG: unmethylated DNA stimulatory in human cells
+Other natural and synthetic products that engage pattern-recognition receptors (PRR)
+# Freund’s adjuvants <- in rabbits   complete rarely used only in experiments, painful
+MDM pain
+
+Adjuvant discovered in 1920s
+
+
+Uses of adjuvants:
+Enhance the immunogenicity of antigens
+ Recruiting specific immune cells to site of immunization
+  Induction of Th1 vs Th2 response
+  Enhance generation of memory cells
+ Activation of immune cells to create an inflammatory environment
+ Help mature antigen presenting cells to take up and present antigens in lymphoid tissues
+ Reduce the amount or number of antigens needed to elicit an effective immune response
+ Improve the vaccine efficacy in newborns, elderly, or immunocompromised persons
+ Facilitate delivery of antigens in the mucosa
+# Reduce amount ->Save money , may reduce toxicity
+Baby :Protein conjugated, 
+
+7
+Classes of adjuvants based on function:
+Those that enhance immunogenicity
+Those that serve as protein carriers for immunogenic antigens, esp. for T cell recruitment
+Those that serve as vehicles (e.g., oil emulsion) and as matrix for antigens
+
+Classes of adjuvants based on formulation
+Gel-based
+Tenso-active
+Bacterial products
+Oil emulsions
+Particulated
+Fusion proteins
+Lipopeptides
+# Gel-based: serve as vehicles
+Tenso-active: surface tension, 
+
+Mechanisms of action of adjuvants:
+Sustained release of antigens (depot effect)
+Upregulation of cytokines/chemokines
+Recruitment of immune cells
+Enhance antigen uptake and presentation by APCs
+Facilitate cell migration to draining lymph nodes
+Engagement of patter recognition receptors and activation of inflammasomes
+
+
+Adjuvants: how they exert their activities
+1. Physical presentation of the antigen: 
+	-stabilize and expose native conformational epitopes
+	-formulate the antigen into aggregates
+	-organize the antigen into a multimeric structure
+	-effect on antigen-presenting cells (e.g., DCs)
+		-migration, maturation, and co-stimulation
+		-effect on CD4 T-helper cells, CD8 T cells, B cell response
+		-enhance cross-presentation of antigens via MHC Class I
+     #1.Allows right folding of epitopes
+      2.Delivery more antigens in small pack
+
+2. Release and distribution of antigen:
+	-slow release from a depot
+	-attracting appropriate APCs
+	-transport of antigens to relevant lymphatic organs
+       # Protect against dissemination:  (TB) max spleen 
+
+3. Immune potentiation or modulation:
+	-engage TLRs and NOD-like receptors (NLR)
+	-activate STING    
+	-affect intracellular trafficking and processing of antigens
+	-influence presentation by MHC molecules
+	-expand T cells with different profiles of cytokine production
+	-expand memory T cell response
+
+
+Depot effect
+Effect on immune response
+
+Tenso-active adjuvants:
+ Saponins—plant glycosides or natural surfactants (detergents) 
+  Quil A (or QS): derived from plant Quillaja saponaria
+  Effect on both T-dependent and independent antigens; also stimulates CD8+ cells
+  Used in veterinary medicine
+  Too toxic for human use
+  # malaria vaccine
+Bacterial products:
+ LPS
+ Monophosphoryl Lipid A (MPL)—reduced toxic form of LPS (engages TLR4)
+ Peptidoglycan (engages NOD receptors)
+ Cell wall products
+ Active components:
+  acetyl-muramyl-L-alanyl-D-isoglutamine (MDP)
+  Trehalose dimycolate (TDM) of Mycobacterial cell wall (CAF01)
+  Cyclic di-nucleotides
+ # MPL: licensed in US
+
+Emulsions, liposomes, and particulated products
+Emulsions (oil-in-water; water-in-oil): <- want ag inside
+ Freund’s incomplete adjuvant (FIA) (w-in-o)
+ MF59 (o-in-w): Licensed in Europe
+ Montanide
+ Adjuvant 65
+ Lipovant
+Liposomes:
+ Help to extend half-life of antigens
+ Can be used for mucosal delivery
+ Enhances immunogenicity of polysaccharides
+Particulated products
+ Polymeric microspheres (poly-glycolides)
+ Can be designed to control timed release of antigens
+
+Combination adjuvants:
+ASO2 (MPL, QS21, MF59)
+ASO4 (MPL, alum)
+RTS,S (ASO2, malaria pre-erythrocytic antigen)-used with hepatitis B vaccine
+
+Cytokines as adjuvants, often made in fusion to proteins:
+GM-CSF—recruits antigen-presenting cells
+IFN-gamma—pleotropic effect
+IFN-alpha, IL-12—abrogate tolerance
+Others—deliver antigens preferentially to antigen-presenting cells; preferential stimulation of Th1 or Th2 type response
+# cytokines: vaccines against tumor
+
+Immunomodulatory adjuvants:
+Th1 induction:
+ lipophilic MDPs, lipid A derivatives
+Th2 induction
+ hydrophilic MDPs, vitamin D3, polyA:U, aluminum salts
+Th1/Th2 induction
+ saponins
+
+Influence of adjuvants on the trafficking and delivery of antigens to lymphocytes
+ISCOMs: Rabies virus (RV) preferentially taken up by marginal zone macrophages (MZM) in spleen, whereas RV-ISCOMs are taken up by marginal metallophilic macrophages (MMM); MZM function as scavengers.  RV-ISCOMs 20-30 times more immunogenic than RV; Conclusion: presentation by MMM stimulates better immune response
+FCA, LPS:Can delay  the transport of antigens from the site of injection to draining lymph nodes and affect T and B cell responses in lymph nodes, spleen, and bone marrow
+
+Mucosal adjuvants:
+Lipid A
+LPS
+V. cholera toxin, E. coli heat stable toxin—increase antigen presentation by B cells
+Biodegradable particles—poly-lactide-co-glycolide
+Live vectors—Salmonella, Shigella, varicella, etc
+# V. cholera toxin, E. coli heat stable toxin— intestinal
+
+Adjuvants for inducing mucosal immunity:
+Requirements of a vaccine to induce mucosal immunity:
+ resist low pH
+ penetrate mucosal barrier. <-M cells
+ avoid induction of tolerance
+Choleratoxin (or heat labile toxin LT of E. coli): 
+ able to elicit memory B and T cells
+ T cells produce IL-4, IL-5, IL-2
+ B-subunit good for targeting, but not for adjuvant activity
+ Problem: toxicity
+
+Licensed adjuvants:
+Alum (alumunim hydroxide): worldwide
+MF59 (Novartis):
+
+Aluminum hydroxide:
+First used in 1932 (Alexander Glenny)
+Most widely used adjuvant
+No depot effect (new observation)
+Relatively safe
+Enhances antigen presentation by APCs— *increases antigen uptake and reduces antigen degradation
+Enhances Th2 response (IgG1 isotype, IgE)
+Not recognized by TLRs; ?recognized by NLRP3 inflammasome
+Unable to stimulate cell-mediated immune response
+Poorly immunostimulatory for polysaccharide antigens
+# Depot effect is not the main effect
+
+MF59:
+Oil-in-water emulsion (oil:squalene—better metabolized than paraffin)
+Stimulates stronger Ab response, enhanced memory response (mixed Th1, Th2)
+Recruits DCs and granulocyes
+Differentiates monocytes into DCs
+Enhances uptake by DCs
+# Could be used for intracellular. Help with innate immune response. More widely used in licensed vaccines
+
+Mechanisms of action of adjuvants that engage PRR:
+Engagement of TLRs and NOD receptors
+Activation of NFκB and/or type I interferon
+Engagement of NLR inflammasomes
+Caspase-1 dependent activation of IL-1β and IL-18
+Engagement of STING by cyclic di-nucleotides
+Upregulation of cytokines needed for maturation of DCs
+Upregulation of cytokines needed for improved presentation of antigens
+ TLR3  to   IL12 to   MHC Class II and cross presentation 
+ 
+Immunomodulators as adjuvants:
+ CpG motifs (unmethylated)
+  Signals through TLR9.  <- intracellular, virus
+  Induces Th1 type response—stimulates B cells
+ Host defense peptides (HDP)
+  Cationic antimicrobial peptides
+  Defensins and cathelicidins <- related to VD3 a hole in bac
+  Can serve as ligands for TLRs
+ Polyphosphazines
+  Water-soluble, biodegradable synthetic particles
+  Exert adjuvanticity by allowing depo release of antigens
+ All designed to shift DCs to Th1 type response
+
+T-helper cell polarization and mechanism of stimulation involving pattern-recognition receptors (PRR):
+Alum                                                  Th2: ?NLRP3 inflammasome
+MF59                                                  Th1, Th2: ? Receptor
+ISCOM                                                 Th1, Th2: ? Mechanism
+Poly-IC (synthetic dsRNA)                             Th1: TLR3, MDA5                        
+ASO1, ASO2 (MPL, QS-21)                               Th1: TLR4
+ASO4 (MPL, alum)                                      Th1, Th2: ?Mechanism
+Flagellin (proteins)                                  Th1, Th2: TLR5, NALP5                               
+Imiquimods (imidazolequinoline)                       Th1: TLR7, TLR8 or both
+CpG                                                   Th1: TLR9
+Complete Freunds Adjuvant (CFA)                       Th1, Th17: NLR inflammasome
+Incomplete FA                                         Th1, Th2: ? Mechanism
+CAF01(trehalose dimycolate)                           Th1, Th17: mincle (C-type lectin receptor)
+
+Challenges:
+Chronic infectious diseases
+ AIDS
+ TB
+ Herpesvirus infections
+ Leishmaniasis, Chagas disease
+Cancer
+# Why only two are used? Toxicity and so on
+Used against acute infectious diseases, not chronic infectious diseases -> directly /indirectly affect immune system
+
+
