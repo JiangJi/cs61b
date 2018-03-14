@@ -1,0 +1,940 @@
+Biological correlates of protection by vaccines
+
+Learning objectives
+Differentiate biological correlates of protection and surrogates of protection associated with a vaccine.
+Be able to describe well-established biological correlates of protection induced by a vaccine against bacterial and viral infections.
+Describe how biological correlates of protection may be quantitated.
+
+Correlates of vaccine-mediated protection—why is it important?
+To establish consistency of production
+Knowing who (individual, population) is susceptible to the disease vaccine is supposed to protect
+Validating a vaccine when clinical trial is no longer ethical
+For licensing combination vaccines
+
+Definitions
+Correlate of protection:an immune response that is directly responsible for protection, or statistically correlated with protection
+Surrogate of protection:an immune response that serves as a marker or substitute for something else that is protective, that is either unknown or unmeasurable
+ 
+General concepts of correlates of protection
+Any vaccine protection can be overwhelmed with a large inoculum size of an infectious agent.
+Mechanism of protection is not necessary the same as mechanism of recovery from infection.
+Most vaccines now in use exert their effect by generating protective antibodies.
+Vaccine-induced memory is important for protection against long-incubation diseases.
+Correlates of protection can vary according to individual characteristics (age, gender, MHC group)
+Correlates may differ quantitatively and qualitatively.  Levels of protection can be measured quantitatively.
+
+Example: Correlates of protection against encapsulated bacteria and toxins
+Opsonophagocytic antibodies: Correlated with protection against pneumococcus and Haemophilus but not Meningococcus
+Bactericidal antibodies: Correlated with protection against both pneumococcus and Meningococcus
+
+Caveats: Pneumococcal antibodies--example
+Varies by serotype: Antibody titers that correlate with protection varies by serotype
+Opsonophagocytic antibody titers less in young and elderly: Due to poor immunogenicity of capsular polysaccharides
+Protective antibody titers (ELISA): Developed countries: 0.18-0.35 µg/ml.  Africa: 2.3 µg/ml
+Vary by serotype, age
+Africa/us difference: background exposure frequency and serotype, biological reasons
+Understand biology and epi
+
+Toxin-producing bacteria
+Tetanus and diphtheria anti-toxic antibodies:Titer of 0.01 µg/ml protective; Titer of 0.1 µg/ml completely protective for tetanus
+Botulinum anti-protective antigen (PA) and toxin neutralization (TN) antibodies:
+PA antibody >100 units protective
+TN antibody 1/1000 dilution protective
+
+Intracellular bacteria
+Diseases for which antibody protection demonstrated:
+Plague
+Tularemia (partial)
+?TB
+Most viral diseases
+#Tb some evidences against ab protected TB <- mouse
+Viral: except for HIV
+
+Viruses
+Those injected into the host by an arthropod:
+Yellow fever (1/5 dilution of neutralization Ab protective)
+Japanese encephalitis (titer of 1/10 dilution of neutralization Ab protective)
+Tick-borne encephalitis (Europe and Asia): 125 ELISA units protective
+Dengue (under evaluation)
+Those that enter bloodstream via the mucosa:
+Most other disease-causing viruses 
+#Dengue depends on country(endemic) and serotype; 2nd<-HIV
+
+Evidence used to demonstrate biological correlate of protection
+Neutralization assay:Plaque assay
+Enzyme or function inhibition assays: 
+Neuraminidase inhibition
+Hemagglutination inhibition
+Syncytium formation inhibition   <-RSV
+Passive transfer (gammaglobulin or T cells):
+e.g., hyperimmunoglobulin for rabies
+Maternal antibody titers:
+Usually protective for infant until 6 months of age
+Diseases that affect the immune system:
+AIDS    (herpes virus…
+Inherited disorders of the immune system
+
+Neutralization assay: influenza
+
+
+Diseases that affect the immune system—what have we learned?
+AIDS
+Congenital or primary immune deficiency diseases:
+1. Defect in phagocytosis <- encapsulated (pneumocacoss, staph, strep…
+Chediak-Higashi syndrome—microtubule(used to engulf) defect
+Chronic granulomatous disease—failure of phagocytes to make H2O2 and other reactive oxygen intermediates
+2. Defect in antibody production
+X-linked agammaglobulinemia—absence of antibodies more common in man
+Common variable immune deficiency—defect in antibody production 
+Selective IgA deficiency 
+IgG subclass deficiency (60-70% IgG1, 20-30% IgG2, 5-8% IgG3 and 1-3%)
+IgG2 important for encapsulated bacteria (polysaccharides)
+IgG1, 3 important for toxins, viruses
+
+#AIDS likely to have:
+Fungi disease (depends on T cells)
+TB
+IgE <-parasite
+
+Primary immunodeficiency diseases—cont.
+Defect in cell immunity
+Severe combined immunodeficiency (SCID)—absence of B and T cells
+DiGeorge syndrome—failure of thymus development
+Wiskott-Aldrich syndrome—defect in B and T cells and platelets
+Ataxic telangiectasia—B and T cell abnormality
+
+
+Diseases or conditions that affect the immune system—what have we learned?
+Diseases due to overactive immune response
+Allergy, asthma
+Autoimmune diseases
+Hyper IgM—defect in Th cells 
+Hyper IgE syndrome (Job syndrome) 
+Diseases that affect the immune system
+Cancers—leukemia, lymphoma
+Diabetes
+Drugs (chemotherapy, steroid)
+
+Higher level of igM results in other Ig lower
+15
+
+Biological correlates of protection
+Humoral immunity:
+Desirable qualities:  neutralization and cross-reactivity
+neutralization
+protection by passive transfer of antibody
+protection by maternal antibody
+correlation of naturally-occurring antibody titers in a population with disease prevalence in a community
+	
+16
+
+Viral neutralization assays:
+Definition of neutralization: loss of infectivity through reaction of the virus with specific antibody
+Cell culture assays
+Plaque reduction neutralization (PRN)  <-virus infect cells then cell dies, leave a plaque
+Cytopathic effect (CPE) inhibition
+Inhibition of syncytium formation
+Other in vitro assays
+Inhibition of pock formation in chorioallantoic membrane in egg
+Hemagglutination inhibition <-antibody prevent red blood cells clot
+Metabolic activity inhibition (neuraminidase inhibition)
+In vivo animal assays
+Inhibition of disease production
+Inhibition of death
+17
+!!!Markers of protection, but doesn’t mean protection
+
+Biologic correlates of protection
+Cell-mediated immunity:
+Desirable qualities: control of intracellular pathogens (and tumors)
+delayed hypersensitivity response
+cytotoxic T-cell response
+cytokine profiles
+protection by adoptive transfer of cells
+animal protection study and assessing immune response
+delayed hypersensitivity response but not correlate: TB and BCG (we do TST) correlate: leprosy (surrogate )
+
+
+Animal models
+Desirable qualities:
+mimics human disease
+simplicity
+Problems:
+animal models unavailable; humans only host
+disease in animal not representative 
+requirement for different infectious inoculum or route of infection to produce disease
+allelic differences in MHC antigens
+#“mouse lies”
+Mouse model for TB , but no formation of granuloma
+O157:H7 no animal model
+Vivial choleral
+Not presented by human MHC (use prediction algorithms)
+======================================================
+Vaccine formulation: Part 1
+Vaccine formulations:
+1. Live attenuated vaccines
+2. Inactivated whole cell or whole organism vaccines
+3. Subunit vaccines (DNA, protein, polysacchride)
+4. “Naked DNA”
+
+Bacterial vaccines in current use
+1 Live attenuated vaccine:
+Tuberculosis (Mycobacterium bovis-BCG)
+Typhoid  (Salmonella typhi Ty21a)
+2 Inactivated, whole organism vaccine:
+Cholera (Vibrio cholerae)
+Pertussis (Bordatella pertussis) <- all vs. subunit
+Plague (Yersinia pestis)
+Typhoid (Salmonella typhi)
+3 Subunit vaccine:
+Pneumococcal diseases       polysacchride and conjugated
+Typhoid  (Vi antigen)
+Hemophilus influenza b diseases
+Pertussis (acellular B. pertussis)
+Meningococcal diseases
+4 Conjugate vaccines:
+H. influenza b
+Pneumococcus 
+5 Toxoids:
+Tetanus (Clostridium tetani)
+Diphtheria (Corynebacterium Diphtheriae)
+
+
+Viral vaccines in current use:
+1 Live attenuated vaccine:
+Polio (OPV)
+Measles
+Yellow fever
+Mumps
+Rubella
+Varicella (chickenpox)
+2 Inactivated, whole organism vaccine:
+Influenza
+Rabies
+Japanese encephalitis
+Polio (IPV)
+Hepatitis A
+3 Subunit vaccine
+Hepatitis B
+Influenza
+
+Vaccine formulation:Attenuated organisms used as vaccines
+Organism adapted for other hosts: vaccinia, canary pox, rotavirus
+Naturally-occurring attenuated organisms: poliovirus, rotavirus
+Temperature (cold)-adapted mutants: influenza virus
+Genetically-altered mutant strains: Salmonella typhi Ty21a <-people created in lab
+Serially passaged wild-type organisms: poliovirus, measles virus, yellow fever virus, BCG
+# Vaccinia <- small pox
+Canary pox<- HIV(failed) continue to metabolize, produce protein , but not replicate very well in people, well in birds
+Animal rotavirus <- don’t replicate well or induce symptoms in human
+
+Example: Typhoid vaccines
+
+Typhoid Fever Caused by Salmonella typhi and paratyphi
+Humans are the only reservoir
+Case fatality 10-30% without treatment
+Incidence:
+<0.1/100 000 in Central and Eastern Europe
+725/100 000 in Sub-Sahara Africa
+Estimate (2010): 13.5 million- 26.9 million 	
+Also called Enteric fever
+
+Typhoid epidemiology
+Most prevalent in the Subcontinent
+Overall incidence in Asia: 170/100,000 
+South China: S. typhi largely replaced by S. paratyphi A
+Transmission: water, food, crowding, low SE conditions, recent contact with person infected with S. typhi
+Chronic carriage: 2-5% after acute episode      shed for one year or longer
+Vaccine against S.typhi not S.paratyphi
+
+Drug resistance
+Drugs: Chloramphenicol, ampicillin, co-trimoxazole, fluoroquinolones, 3rd-gen cephalosporins, azithromycin
+Resistance:
+1980s: first-line drugs (chloramphenicol, ampicillin, co-trimox)
+1990s: fluoroquinolones
+Now: extended-spectrum beta-lactamase producers (ESBL)
+Any of the first line and fluoroquinolones
+
+Why do we need a vaccine against typhoid??
+Typhoid vaccines
+Whole cell, inactivated parental vaccine (1896):2-3 doses required
+booster: 5 yrs
+No longer available in the US
+Whole cell, attenuated oral vaccine (Ty21a):
+3-4 doses required
+booster: 4 yrs
+Given to those > 6 yrs of age in the US, > 2 yrs in developing countries
+Subunit, Vi antigen vaccine:
+1 dose
+booster: 2 yrs
+Given to those > 2 yrs of age in the US and other countries
+
+
+Ty21a vaccine
+Made from exposing wild type S. typhi strain Ty21 to nitrosoguanidine (Germanier & Fuer, J Infect Dis 1975)
+Correlates of protection associated with Ty21a vaccine: 
+Serum IgG antibodies and gut-derived O antigen-specific IgA antibody
+Given orally, every other day, 4 doses in the US, 3 in developing countries
+Cross protective against S. paratyphi B but not A
+Not recommended for immunosuppressed individuals (OK for HIV-infected if CD4 >200/ul)
+
+Vi antigen vaccine
+Vi antigen: surface polysaccharide—has anti-opsonic property: inhibits binding of anti-O-antigen antibody
+First licensed in the US in 1994
+Given IM, one dose before travel
+No mucosal or T-cell memory immunity
+No effect against S. paratyphi
+New generation Vi antigen vaccine: Vi-conjugated to Pseudomonas aeruginosa Exotoxin A, tetanus and diphtheria toxoid 
+
+----some review data---------------
+Typhoid vaccine effectiveness: meta-analysis
+Vaccine (number of trials)                         Cumulative 3-yr effectiveness
+Attenuated parental vaccine (10)                   73% (95% CI:65-80%)
+Ty21a  oral vaccine(5)                             51% (35-63%)
+-liquid formulation                                74% (41-89%)
+-enteric coated capsule                            47% (32-59%)
+-gelatin capsule                                   25% (-2-45%)
+Vi antigen (2)                                     55% (30-71%)
+
+Typhoid vaccine toxicity (meta-analysis--cont.)
+Vaccine                                            Toxicity (Fever	Diarrhea)
+Attenuated parental vaccine                        15.7%	10%
+Ty21a oral vaccine                                 2.0%	5.1%
+Vi antigen                                         1.1%	NA
+
+Typhoid vaccine trials—cont.
+Compared Ty21a, Vi, and Vi-rEPA: 3-yr efficacy
+Efficacy trials (10 trials)
+Safety evaluation (10 trials)
+Ty21a
+All formulations: 		51%
+-Liquid: 			74%
+-Enteric capsules:		47%
+-Gelatin capsules:		25%
+Vi antigen:			55%
+Vi-rEPA (1 trial, 2-5 yr olds):	89% (3.8 yrs)
+
+18 randomized controlled trials (RCT)
+12 assessed efficacy
+8 examined adverse events
+Examined Ty21a, Vi antigen, Vi-rEPA
+Results: Cochrane review (Goldberg, AE et al 2014)
+Ty21a (3 doses):             Side effects: fever 
+Year 1: 35% (95% CI 8- 54%)
+Year 2: 58%  (95% CI 40- 71%)
+Year 3: no benefit
+Vi antigen (1 injection):       Side effects: swelling at injection site
+Year 1: 69% (95% CI 63- 74%)
+Year 2: 59% (95% CI 45- 69%)
+Year 3: 55% (95% CI 30- 70%)
+Vi antigen-rEPA (2 injections):  Side effects: no significant difference from placebo
+Year 1: 94% (95% CI 75- 99%) 
+Year 2: 87%  (95% CI 56- 96%)
+------------------review ends-------------------
+
+New developments with typhoid vaccine
+Subunit, Vi-rEPA (conjugated to Pseudomonas aeruginosa exotoxin)
+Other Vi antigen conjugates with diphtheria/tetanus toxoid
+Combination vaccine:
+-Vi antigen and O-polysaccharide against paratyphi A
+-Vi antigen and other O-antigens against non-typhoidal salmonella
+Other attenuated formulation vaccines (single-dose oral vaccines)
+
+Vaccine formulation: Part 2Attenuated organism vaccine 
+
+Discuss what is known or unknown about correlates of protection associated with BCG.
+
+Attenuated organisms used as vaccines
+Organism adapted for other hosts: vaccinia, canary pox, rotavirus
+Naturally-occurring attenuated organisms: poliovirus, rotavirus
+Temperature (cold)-adapted mutants: influenza virus
+Genetically-altered mutant strains: Salmonella typhi Ty21a
+Serially passaged wild-type organisms: poliovirus, measles virus, yellow fever virus, BCG
+
+Example: BCG
+
+Organism: M. bovis isolated from a cow with mastitis
+Subcultured every 3 wks for 230 passages (1908-1921)
+Developed by Albert Calmette, Camille Guérin
+1921: first vaccine given to an infant whose grandmother had TB
+1950: WHO issues first recommendation for BCG preparation
+1960: BCG became available in lyophilized form; seed lots can be made available; no more than 4 generations from seed lot can be used
+Today, 100 million doses are administered each year worldwide
+
+
+Geographic use distribution of BCG strains, 2003-09
+Ritz & Curtis 
+BCG Brazil
+BCG Russia/Bulgaria
+BCG Japan
+BCG Denmark
+BCG Connaught
+BCG Pasteur
+More than one BCG vaccine strain used
+Locally produced BCG, strain unknown
+No BCG licensed or produced
+No or insufficient data
+
+TB Prevention: theory and practice
+USA: 
+1 Isoniazid (INH) prophylaxis
+2 Rationale: 
+Disease incidence low
+Maintain ability to monitor new infection
+Abroad: 
+1 BCG given to maintain positive PPD skin test reaction
+2 Rationale:Disease incidence high
+
+BCG--quality control
+Responsibility of Statens Seruminstitut in Copenhagen:
+1 total bacterial content (dry weight)
+2 heat stability after incubation at 37C for 28 days
+3 ability of vaccine to produce tuberculin sensitization in guinea pigs
+Glaxo, Tokyo, and Pasteur strains account for >90% of vaccine strains used in the world
+
+Correlates of protection by BCG:
+1 Passive transfer of serum in BCG-vaccinated rabbits did not protect against challenge with M. bovis in rabbits
+2 Mice receiving T-lymphocytes from BCG-vaccinated mice showed decreased number of M tuberculosis organism recovered from spleen and lung after challenge
+3 CD8+ cells in spleen of BCG-vaccinated mice controlled Mtb infection—basis for preventing dissemination??
+4 BCG does not prevent infection in mouse lungs; number of organisms recovered not significantly different until 14 days after challenge
+
+BCG vaccine effectiveness--reasons for variability in clinical trials
+Affected by previous infections with non-tuberculous mycobacteria:
+decreased susceptibility of control group
+Differences in the potency/immunogenicity of the batches of vaccine:
+Different BCG strains? (Pasteur, Connaught, Japan, Denmark, Brazil) 
+Differences in the risk of infection, in virulence of M. tuberculosis strains, genetics of hosts: Circulating predominant lineages (e.g., Beijing clade in northern hemisphere)
+Differences in study methodology:
+Clemens et al JAMA 1983;249:2362
+Colditz et al JAMA 1994;271:698
+
+
+Protection greatest in:
+Children stringently tested by tuberculin skin test (TST)
+Against meningitis and miliary TB in infants
+Further away from Equator
+Protection not associated with:
+BCG vaccine strain
+Children or older people not stringently tested by TST
+
+BCG vaccine side effects
+Lubeck Incident: 1930: Lubeck, Germany: 72/251 vaccinated children died; not BCG but M. tuberculosis 
+Most common complication: lymphadenitis
+Most serious complication: disseminated disease
+BCG and HIV infection:
+1 Lallemant-La Coeur: 194 children (64 HIV+); 40 months of f/u: lymphadenitis in 24% of HIV+, 18% in HIV- children
+2 Rwanda: 377 children: 6 suppuration at injection site; 1 was in HIV+ child; 1 in HIV- child whose mother was HIV+; 4 HIV- children
+Hesseling et al (2007): Mathematical modeling: incidence of disseminated BCG disease of 329 and 417 per 100,000 vaccine recipients in South Africa (assuming 95% coverage)
+WHO no longer recommends BCG in asymptomatic HIV+ children at risk for TB (WHO, 2007)
+
+
+Basis for WHO recommendation on BCG vaccination in children infected with HIV:
+Infants asymptomatically infected with HIV at birth given BCG has a later risk of disseminated BCG infection of 407-1300 per 100,000.
+
+
+Evaluation of >80,000 individuals with BCG scar (Glaxo)
+Protection against leprosy:
+multibacillary: 84%
+paucibacillary: 51%
+Protection against tuberculosis: 
+pulmonary: 5%
+extrapulmonary: -6%
+
+BCG may have selected for M. tuberculosis Beijing genotype 
+
+SNP analysis of M. tuberculosis strains
+Beijing family strains
+W-Beijing family
+M. tuberculosis Clusters - sSNP AnalysisEvolution Tree
+H37Rv
+CDC1551
+
+What’s good with BCG
+BCG may protect against leprosy
+BCG may protect against development of asthma later in life? 
+BCG used as a delivery vehicle for new anti-TB vaccines
+
+BCG— “take-home” message
+Effective for preventing disseminated TB in children
+Overall effectiveness is ~50%
+Not effective against pulmonary TB
+Not effective in preventing reactivation TB
+No evidence of enhanced protection by booster BCG
+Not to be given to HIV-infected children
+
+
+Key biology questions:
+Why do only some people latently infected with M. tuberculosis develop active disease?
+How does BCG protect children while remaining ineffective in preventing pulmonary disease in adults?
+What antigenic factors are needed to trigger protective and long-lasting immune responses against TB?
+
+Current measures of “protective” immune response
+CD4+ T cells
+CD8+ T cells
+γδ+ T cells
+Induction of IFNγ response
+Induction of Th17 response
+IL2
+Are these responses found in children or adults vaccinated with BCG and do they correlate with protection?
+
+
+Newborns in South Africa vaccinated with BCG
+5,662 infants enrolled and followed for 2 years
+29 developed TB
+Compared cytokine expression patterns of  T cells (CD4, CD8, γδ) incubated with BCG:
+TB cases (29)
+Comparison infants—household (n=55) and community (n=55)
+
+BCG: Why it’s not enough
+Recommended by WHO to be administered to only newborns (not for infants with HIV infection).
+Protects against disseminated TB in children (e.g., meningitis).
+Poor effectiveness against pulmonary TB.
+Does not protect against reactivation TB.
+Overall effectiveness about 50% (based on meta-analyses-- Clemens et al JAMA 1983; 249:2362; Colditz et al JAMA 1994;271:698).
+Clearly need a better vaccine against TB!
+
+Vaccine Formulation: Part 3
+
+Learning objectives
+Name the currently approved subunit vaccines (purified component vaccines).
+Describe the limitations of the two formulations of the pertussis vaccine.
+Provide reasons for why the pertussis acellular vaccine may not be protective long term.
+Speculate on how you could improve on the currently available pertussis vaccines
+
+Vaccine formulations
+Inactivated vaccines
+Example: typhoid
+Live attenuated vaccines
+Example: BCG
+Purified component vaccines:
+Subunit 
+Example: pertussis, influenza, hepatitis B
+Toxoid vaccines
+Diphtheria, tetanus
+Conjugate vaccines
+Example: pneumococcus, meningococcus, Haemophilus
+Polysaccharides
+Pneumococcus infections, Meningococcus infections, Haemophilus influenza infections, Typhoid (Vi antigen) 
+
+Example 1: Pertussis vaccines
+Why do we need a vaccine against pertussis?
+
+Bordatella pertussis 
+(one of 9 spp of Bordatella)
+Described in 1900 by Bordet 
+and Gengou
+Small, Gram-negative bacterium
+Other Bordatella spp associated with bronchitis:
+	B. parapertussis
+	B. bronchiseptica
+
+Disease caused by Bordatella pertussis
+Also called whooping cough
+Highest incidence in infants 
+Clinical manifestation in adolescents and adults atypical; leads to delay in diagnosis
+
+Pertussis--Epidemiology
+Worldwide occurrence
+-One of top 10 causes of death in infants
+-~2 million new cases and 200,000 deaths mostly in infants, 90% in developing countries
+Developed countries:
+-Increasing incidence 
+-Two peaks in incidence: 
+> 10 years of age
+<5 months of age
+
+Pertussis in the United States
+265,269 in 1934
+48,277 cases in 2012—most since 1955!
+20, 762 in 2015
+15, 737 in 2016
+
+
+Recent pertussis outbreaks in the United States (CDC)
+Washington state: 4424 cases through Oct 24, 2012 (595 in all of 2011)
+Minnesota: 3853 through Oct 18, 2012 (661 in all of 2011)
+Wisconsin: 4918 through Oct 14, 2012 (1192 in 2011)
+Colorado: 1134 through Oct 29, 2012 (average of 158/yr in 2007-2011)
+California: 1830 cases in 2016
+California: 495 as of May 11, 2017
+11,203 cases in 2014!
+
+
+Pertussis cases, California,1945-2016two peaks: Jun 2010 and Jul 2014
+
+Pertussis in CA--age distribution, 2016
+Two peaks: 1-4 (more 1) and 14-16
+
+Pertussis in CA: ethnic distribution, 2016
+More cases: white non-hispanic
+
+Transmission
+Highly infectious during the initial catarrhal period and 2 weeks of spasmodic cough, and can remain infectious up to 6 wks after.
+Unprotected or partially protected adults and adolescents may serve as reservoir for the infants.
+Secondary attack rate: 80%
+Adolescents and adults major source of transmission
+
+Possible reasons for the new epidemiology of pertussis in developed countries
+Waning protective immunity from vaccine
+Exposure to infected infants
+Exposure to infected adolescents
+New strains?
+Increased reporting?
+Vaccine exemptions?
+
+Pertussis vaccines--formulations
+1 wP: Whole cell, inactivated: 
+Introduced in the 1930s, used in combination with tetanus and diphtheria toxoid vaccines
+Effective but associated with severe side effects in some children:
+	Encephalopathy
+	Seizures (associated with mutation in sodium channel gene SCN1A)
+Difficult to maintain consistency due to strain variability
+Highly immunogenic; immunity long-lasting
+Variable growth and plasticity—variable protein expression relative to growth conditions—regulated by BvgAS regulon
+Makes standardization of cultures difficult
+
+2 aP: Acellular vaccine:
+Introduced in the US in 1997
+(Pertussis toxoid [PT], filamentous hemaglutinnin [FHA], pertactin [PRN] and two different fimbrial proteins)
+Immunity not long-lasting
+Reports of strains that lack toxin and pertactin
+
+B. pertussis toxins and virulence factors
+Pertussis toxin (PT)
+Tracheal cytotoxin (TCT) 
+Adenylate cyclase toxin (ACT)
+Heat-labile toxin
+Endotoxin or lipopolysaccharide (LPS)
+Receptor-binding virulence factors
+including filamentous hemagglutinin (FHA), pertactin (PRN),
+Fimbriae
+
+B. pertussis toxins and virulence factors
+Master regulator--BvgAS—regulates the following class of genes:
+Class 1: Pertussis toxin (PT) (transported by type IV secretion system); bsc operon (Type III secretion system—secretes BteA, a possible cytotoxin)
+Class 2: Filamentous hemagglutinin (Fha), fim genes (which encode fimbriae)
+Class 3: bipA, encodes an outer membrane protein of unknown function
+Class 4: vrg (virulence-repressed genes) maximally expressed when Bvg is not expressed (Bvg-)
+
+
+B. pertussis toxins
+1 Pertussis toxin (PT): 
+ADP-ribosylating AB toxin--  up-regulate cyclic AMP
+Suppresses EARLY proinflammatory response
+Antibody against PT protective
+2 Adenylate cyclase toxin (ACT):
+Forms pores in target cell membrane
+Translocates adenylate cyclase into cells (up-regulate cyclic AMP)
+Increased cAMP causes perturbation of cell signaling
+3 Tracheal cytotoxin (TCT) 
+functions synergistically with lipo-oligosaccharide to stimulate pro-inflammatory cytokines (TNFα, IL-1α, IL-1β and IL-6)
+Recognized by NOD1 intracellularly
+Causes destruction of ciliated cells
+4 Dermonecrotic toxin
+Not secreted by bacteria, so its role in pathogenesis is unclear; maybe necessary for bacterial survival inside a host.
+
+Bacterial surface structures important for virulence 
+
+Correlates of protection?--pertussis
+Pw: Immune protection associated with Th1 T cell response
+Adoptive transfer of Pw-vaccinated mice protective for challenged recipient mice
+Pa: Induces Th2 and Th17 responses
+Children with anti-PT antibodies have less severe symptoms
+
+Duration of protection from vaccination
+Whole cell vaccine: 4-14 yrs
+Acellular vaccine: 5-6 yrs
+Depends on number of doses; >2 needed for protection
+Some evidence of T cell memory response induced by Pa—symptoms less severe in older children
+
+Waning immunity?
+How do you demonstrate waning immunity after aP vaccine?
+Outbreaks began 5-6 years after introduction in several countries—suggests biological factor.
+What is known about correlates of protection?
+Can we measure these correlates of protection?
+What outcomes are affected? severe disease? culture-positive cases? carriage? transmission? (e.g., first trial of Pa vaccine in Sweden in 1986)
+What do we know about correlates of protection by wP?
+
+How was aP vaccine shown to be more immunogenic than wP vaccine in Swedish and Italian studies?
+Connaught Pw vaccine not highly immunogenic
+Measured antibody titers (PT, FHA) to assess protection: Problems: 1) Ab titers never been shown to correlate with protection, 2) Pa had higher concentration of PT, FHA
+No measures of long-term effectiveness done
+No indirect measures of effectiveness performed (herd immunity)
+
+Other factors possibly associated with resurgence of pertussis
+Bias in reporting? More PCR-based tests—picks up milder cases
+Evolutionary shift (changes in antigen epitopes)? 
+mutations in PT and fimbrial genes over time (escape mutants)
+strains over-producing PT 
+strains that no longer express pertactin, FHA, PT
+aP unable to block transmission (herd immunity)
+Failure of “cocooning” strategy
+Poor inducer of mucosal immunity
+
+aP protects against disease but not asymptomatic infection.
+
+CDPH Tdap Recommendations
+Immunize pre-teens, teens & adults with Tdap
+7-9 year olds who are underimmunized
+>10 years who have not yet received Tdap, especially
+women of childbearing age, preferably before, or else during or immediately after pregnancy
+others with close contact with young infants
+includes persons >64 years of age
+Reminder to promptly immunize young children with DTaP  can start as early as 6 weeks
+July, 2011: All students going into 7th – 12th grades must have proof of having had the Tdap booster.
+
+
+Whole cell vaccine: 4-14 yrs
+Acellular vaccine: 5-6 yrs
+Depends on number of doses; >2 needed for protection
+Some evidence of T cell memory response induced by Pa—symptoms less severe in older children
+28
+
+Recommended immunization schedule 
+for persons aged 0 through 18 years --United States, 2017 
+DTaP: given to children
+Tdap: given to adolescents and adults—reduced dose of diphtheria and 
+pertussis vaccines
+
+Recommended adult immunization schedule, 
+by vaccine and age group--United States, 2014 
+
+Immunize pre-teens, teens & adults with Tdap
+7-9 year olds who are underimmunized
+>10 years who have not yet received Tdap, especially
+women of childbearing age, preferably before, or else during or immediately after pregnancy
+others with close contact with young infants
+includes persons >64 years of age
+Reminder to promptly immunize young children with DTaP  can start as early as 6 weeks
+July, 2011: All students going into 7th – 12th grades must have proof of having had the Tdap booster.
+
+
+
+
+Example 2: Pneumococcal vaccines
+
+Why do we need a vaccine against pneumococcal infections?
+
+Streptococcus pneumoniae Pneumococcus)
+Gram-positive diplococcus
+Alpha-hemolytic on sheep blood agar
+>93 serotypes
+11 serotypes responsible for 70-93%
+     of invasive diseases globally
+
+Pneumococcal invasive diseases(Clin Infect Dis. 2000;30:100-21)
+Sepsis
+Pneumonia
+Meningitis
+Peritonitis
+Otitis
+
+Age-related invasive pneumococcal disease/100,000, UK and Wales 1996-2005
+Peak in 6-11 months baby and 80+ years
+
+Etiology
+ >91 capsular types or serotypes
+
+Pneumococcal invasive disease—association with serogroups
+Serogroups associated with invasive disease:
+5-8 serogroups account for 75% of invasive disease in young children; 
+10-11 serogroups in older children and adults account for 75% of invasive disease
+Serogroup 4,6,9,14,18,19, and 23 cause 70-88% of invasive disease in the US, Canada, Oceania, Africa, and Europe; <65% in Latin America
+Above serogroups plus 1 and 5 cause 80-90% of invasive disease in each region except Asia (66%)
+Other serogroups significant causes of disease in older children and adults
+
+Antibiotic resistance (PCN):
+Some countries > 40%
+
+Incidence of pneumococcal pneumonia in children and adults, 1998-2015, USA (CDC)
+<5 yrs decreased after PCV7, decreased again after PCV13
+19-64 yrs older people decreased after PCV 7 and again after PCV13
+
+Incidence of pneumococcal pneumonia in adults >65 yrs, 1998-2015, USA (CDC)
+
+Pathogenesis
+Genome
+1553 essential genes
+154 genes (“virulome”)
+176 genes—non-invasive phenotype
+13 “regions of diversity” (determines invasive vs non-invasive phenotypes)
+
+
+Pathogenesis:
+Asymptomatic carriage mediated by non-invasive clones of Pneumococcus
+Adhesins
+IgA1 protease
+Inhibitors of antibacterial peptides
+Defects in host immunity can cause non-invasive clones to cause disease.
+
+The above bacterial factors help to maintain colonization and efficient spread in the human population.
+Neutrophils are effector cells of innate immunity, killing microbes using phagocytosis and neutrophil extracellular traps (NETs). Neutrophils also generate a variety of immune mediators to direct immune responses, influencing other cells of innate and adaptive immunity. Finally, neutrophils damage tissues, with products such as proteases and reactive oxygen species injuring cells and digesting matrix. TNF denotes tumor necrosis factor.
+
+Pathogenesis
+Invasive disease:
+Anti-phagocytic factor (capsule)
+Adhesion factors (surface protein A, neuraminidase, phosphorylcholine, enolase)
+Invasion factors (pili, serine-rich repeat protein )
+Iron transporters (ABC transporters)
+Oxidative stress protection
+Host evasion factors (capsule) 
+Pneumolysin (type of exotosin--impairs cilia, respiratory burst; promotes cytokine production)
+Bacteriocin (kills other bacteria)
+Quorum sensing
+Biofilm production
+
+
+Pneumococcal capsule
+Prevents mechanical clearance by mucus secretion
+Prevents phagocytosis by inhibiting interaction of complement iC3b to receptors (CR3)
+Inhibits interaction of Fcγ receptors to Fc of IgG
+Reduces exposures to antibiotics
+Target of vaccines
+
+
+Pneumococcal vaccines--history
+Pneumococ. discovered: 1881
+Whole cell vaccine: 1911
+4-/6-valent polysaccharide: 1945/6
+PPV14: 1977
+PPV23: 1983
+PCV7: 2000
+PCV13: 2010
+
+PPV23: 23-valent polysaccharide vaccine—Cochrane review (Moberly et al, 2013)
+25 studies 
+18 RCTs (64,852 participants)
+7 non-RCTs (62,294 participants)
+Effective against invasive pulmonary disease (OR 0.26, 95% CI 0.14 to 0.45)
+Effective against all-cause pneumonia in low-income (OR 0.54, 95% CI 0.43 to 0.67, I2 statistic = 19%) but not high-income countries (OR 0.71, 95% CI 0.45 to 1.12) 
+No effect on all-cause mortality (OR 0.90, 95% CI 0.74 to 1.09)
+Efficacy poorer in adults with chronic illness. 
+
+Antibody response to PPV23
+From J Torling et al, Vaccine 22. 2003
+
+Pneumonia hospitalizations, US before and after PCV7 (Griffin MR et al, NEJM, 2013)
+Decreased mainly for kids and old people
+
+Polysaccharide-conjugate vaccines
+Examples of bacterial polysaccharide antigens:
+Capsular polysaccharides (CPS)
+Lipopolysaccharides (LPS)
+Lipo-oligosaccharides (LOS)
+
+
+Polysaccharides-conjugate vaccines: principles
+Haptens: small molecules made immunogenic after conjugation to carrier proteins
+TI antigens: antigens that activate B cells independent of T cells (Thymus-independent antigens)
+TI-1: antigens that can activate immature B-cells (mitogenic activity): e.g., LPS
+TI-2: antigens that cannot activate immature B-cells: e.g., pneumococcal polysaccharides, H. influenza B polysaccharides, meningococcal polysaccharides
+T cells with specificity for saccharide structures in association with MHC structures not identified/known
+22
+
+Polysaccharide-conjugates: requirements for immunogenicity
+If conjugated, minimum chain length of 2 RU can raise an antibody that recognizes native polysaccharide
+Such an antigen elicits poor antibody response in unprimed B cells (e.g., in infants)
+Minimal number of unmodified repeat units (RU)
+Bacterial pili
+Outer membrane proteins
+Excreted toxins (toxoids; e.gl, tetanus, diphtheria)
+CRM 197 (nontoxic analog of diphtheria toxoid)
+Use of proteins from the homologous bacterial species from which the polysaccharide is derived
+Type of carrier proteins
+covalent bond required
+Coupling methods: 
+Saccharide-to-protein ratio
+23
+
+Meningococcus capsular polysaccharide conjugation 
+(http://f1000.com/reports/m/3/16/fig-001) 
+
+Conjugate proteins used in vaccines
+Diphtheria toxoid protein (CRM197)
+Tetanus and diptheria toxoids
+Tetanus toxoids
+Meningococcal outer membrane protein complex (PncOMPC)
+Pseudomonas aeruginosa exotoxin A (rEPA)
+
+25
+
+Conjugate pneumococcal vaccine
+7-valent vaccine (Prevenar) licensed in the US in 2000
+Now approved in >70 countries
+Vaccine-serotype invasive pneumococcal disease in the US has decreased by 69-94% among targeted age group 
+Acute otitis media decreased by 20%
+Evidence of herd immunity exists
+26
+
+Efficacy of conjugate pneumococcal vaccine against otitis media (OM) (NEJM, 2001;344:403-9)
+1662 infants in a randomized, double-blind trial of heptavalent vaccine (CRM197)
+Dose: 2, 4, 6 and 12 mos.
+2596 episodes of acute OM between 6.5-24 mos of age
+Vaccine reduced the number of OM from any cause by 6%, pneumococcal OM by 34%, and number attributed to serotypes included in the vaccine by 57%.
+27
+
+Racial disparity in pneumococcal conjugate vaccine effectiveness (JAMA, 2004;291:2197-203)
+Objective: assess effect of 7-valent vaccine among whites and blacks in the US--Active Bacterial Core Surveillance (ABCs); Emerging Infections Program Network
+15,923 persons with invasive disease occurring between Jan 1998-Dec 2002
+Incidence and trend:
+19-12.1 per 100,000 among whites
+54.9 to 26.5 per 100,000 among blacks
+Ratio (black:white) decreased from 2.9 times to 2.2 times
+Children < 2 yrs: ratio decreased from 3.3 to 1.6 times
+
+28
+
+Impact of PCV7 on childhood pneumonia, USA
+
+Changes in incidence of invasive pneumococcal disease, USA, since introduction of PCV7 in 2000
+Tina Q. Tan Clin. Microbiol. Rev. 2012;25:409-419
+CDC
+30
+
+13-valent Pneumococcal conjugate vaccine
+13-valent vaccine (Prevnar13) licensed in the US in 2010
+Includes 1, 3, 5, 6A, 7F, and 19A 
+Initially approved for children 2-59 months of age (ACIP); 60-71 mos in children with underlying medical conditions at risk for invasive pneumococcal disease
+Now approved for infants and up to 17 years of age
+Adverse effects similar to PCV7’s
+
+31
+
+Effectiveness of PCV13 against invasive pneumococcal disease (IPD)(Moore et al, Lancet ID, 2015)
+2004-2013: 64% overall decline in IPD
+PCV13 minus PCV7 serotypes: 94% decline in children
+PCV13 minus PCV7 serotypes: 58-72% decline in adults
+30,000 cases of IPD and 3000 deaths averted in the first 3 years of introduction of PCV13
+
+
+PCV13: effectiveness against nasopharyngeal (NP) colonization (Dagan et al, Clin Infect Dis, 2013)
+Randomized comparison of PCV7 (n=873) and PCV13 (n=881)
+ages 2, 4, 6, and 12 months
+NP swabs and serotype-specific IgG antibody levels examined
+ PCV13 significantly reduced NP colonization of 6A, 7F,19A (PCV13 serotypes), common serotype 19F, and cross-reacting serotype 6C.
+Potential for establishing herd immunity
+
+
+
+Effectiveness of PCV13 on invasive pneumococcal disease (IPD), 2007-16 (Pilishvili, T et al; IDWeek, Oct 2017) 
+
+Effectiveness of PCV13 on invasive pneumococcal disease (IPD), 2007-16 (Pilishvili, T et al; IDWeek, Oct 2017) 
+
+CDC Recommendation (Adults)
+PCV13: 1 dose recommended to 19+ 
+
+CDC Recommendation (children)
+PCV13: >2 months
+
+Pneumococcal vaccine recommendation summary
+PPV23 reduces the risk of serious pneumococcal infection by an estimated 50% to 80% in adults. 
+PCV13 recommended for children (infants and up to 17 years of age)
+2014: ACIP recommends routine use of PCV13 for all adults >65 years:
+One dose following PPV23 (after 6-12 months)
+
+
+
+
+
+
+
