@@ -1,0 +1,616 @@
+New epidemics of vaccine-preventable diseases
+
+Learning objectives
+1. Identify vaccine-preventable diseases that have occurred as epidemics in the recent past in the United States and abroad.
+2. Provide possible biological reasons for why such epidemics may have occurred.
+3. Provide possible sociological/behavioral or epidemiological reasons for why such epidemics may have occurred.
+4. Describe new approaches and strategies to prevent such epidemics.
+
+Vaccine-preventable diseases that have occurred as epidemics in the last few years
+ Pertussis
+ Mumps
+ Hepatitis A
+ Influenza
+ Others
+
+Mumps
+
+Mumps vaccine
+1945: Mumps virus first isolated
+1948: Inactivated virus vaccine developed; provided short-lasting immunity—discontinued in 1970
+1967!: Mumpsvax licensed in the US
+Developed by Maurice Hilleman, MD—based on virus isolated from his daughter Jeryl Lynn (called Jeryl Lynn strain), still used today.
+
+2006 midwest outbreak
+2009 northeast outbreak
+#1989 2nd dose recommended because of the outbreak
+Why come back?  Waning immunity based on model, 1989 outbreak mainly in teenagers
+2006 older, college age <- 2nd dose 
+If due to virus change, we are expected to see everybody susceptible, not just young kids
+
+Reasons for the epidemics of mumps?
+Change in vaccine coverage?  
+Waning immunity?
+Bad batch of vaccine?
+Change in viral strain? (escape mutants)
+
+
+No change in vaccine coverage, always high
+18-22 and 11-17: why waning immunity
+Mumps outbreak in university > community > schools > households
+18-22 yrs: highest incidence in 2016
+New ACIP recommendation, mumps (pending MMWR):anyone previously vaccinated with two doses of a mumps-containing vaccine who are identified by public health as at increased risk for mumps because of an outbreak should receive a third dose of a mumps-containing vaccine to improve protection against mumps disease and related complications
+
+*****
+Influenza
+
+Orthomyxovirus
+8 segments of RNA <- mutation, recombine
+
+14
+
+Influenza virus
+Influenza viruses: 4 types—A, B, C, and D
+Type A:
+Infects birds, humans, other mammals
+18 HA, 11 NA subtypes in birds and pigs
+** H1N1 and H3N2 subtypes responsible for most seasonal epidemics **
+Avian-origin H2, H5, H6, H7, H9, H10 HA subtypes associated with sporadic infections in humans
+Type B:
+Infects only humans
+Causes seasonal epidemics
+Type C:
+Infects humans and pigs
+Type D:
+Infects cattle
+Vaccine includes type A and type B
+15
+
+Influenza vaccines
+Whole inactivated virus injectable vaccine
+ Trivalent: two type A strains, one type B strain
+ Quadrivalent: two type A strains, two type B strains
+Subunit injectable vaccines
+ Hemagglutinin of influenza A (H1N1; H3N2) and influenza B strains
+Live attenuated vaccines
+
+Influenza vaccine production
+Egg-based vaccine
+ Inactivated
+ Attenuated
+Cell-based
+ Virus propagated in animal cell lines
+Recombinant vaccine
+ HA expressed in insect cells
+ FluBlok approved in the US (2016)
+#Common: egg, propagate in egg first
+Recombinant: subunit express in cells and produce 
+17
+
+How the decision to select viruses to include in the season’s influenza vaccine is made: WHO Global Influenza Surveillance and Response System (GISRS)
+Year-round surveillance:
+136 national centers
+106 countries
+Viruses sent to WHO Collaborating Centers
+
+WHO Collaborating Centers for Reference and Research on Influenza:
+Atlanta, Georgia, USA (Centers for Disease Control and Prevention, CDC)
+London, United Kingdom (National Institute for Medical Research)
+Melbourne, Australia (Victoria Infectious Diseases Reference Laboratory)
+Tokyo, Japan (National Institute for Infectious Diseases) 
+Beijing, China (National Institute for Viral Disease Control and Prevention)
+
+WHO Collaborating Center for Studies on the Ecology of Influenza in Animals, St. Jude Children's Research Hospital
+
+Egg-based vaccine production:
+Master donor virus; egg adapted + Epidemic strain to egg 
+Get Reassortant strain
+Takes 6-8 months!
+# Shift created in egg manually
+20
+
+Approved influenza vaccines and manufacturers
+Fluarix, GlaxoSmithKline Biologicals
+FluLaval, ID Biomedical Corporation
+FLuBlok, Protein Sciences (propagated in baculovirus)
+Flucelvax, Novartis (propagated in MDCK cells)
+FluMist, MedImmune Vaccines Inc.
+Fluvirin, Novartis Vaccines and Diagnostics Limited (Subunit vaccine)
+Fluzone, Fluzone High-Dose and Fluzone Intraderma, Sanofi
+Afluria, Sequirus (only cell-based vaccine approved in the US--2016)
+Different formulation
+Last one: cheaper
+21
+
+Influenza vaccine effectiveness: Cochrane reviews (Demicheli V et al, 2018)
+Health adults (16-65 yrs):
+Found 52 RCT with over 80,000 people; 25 evaluated in this study 
+Single influenza season in North America, South America, and Europe between 1969 and 2009
+Vaccines reduced influenza from 2.3% (no vaccination) to 0.9% (vaccination; RR 0.41)
+Number needed to vaccinate (NNV): 71 (needed to be vaccinated to prevent 1 influenza case)
+No appreciable effect on hospitalization or number of working days lost
+NNV: lower the number, higher the vaccine efficacy
+22
+
+Influenza vaccine effectiveness: Cochrane reviews (2018)
+Children (3-16 yrs) (Jefferson, T et al, 2018)
+ 41 clinical trials, > 200,000 children
+ Single season in USA, Western Europe, Russia, and Bangladesh between 1984 and 2013
+ Reduced the risk of influenza from 18% (unvaccinated) to 4% (vaccinated; risk ratio 0.22)
+ Number needed to vaccinate (NNV): 7
+ ? Effect on parents taking time off work (RR 0.69, 95% CI 0.46 to 1.03)
+Elderly (>65 yrs) (Demicheli V, et al, 2018)
+ Eight RCTs, over 5000 participants
+ Community and residential care settings in Europe and the USA between 1965 and 2000
+ Reduced the risk of influenza from 6% (vaccinated) to 2.4% (unvaccinated, risk ratio 0.42)
+ NNV: 30
+ Could not assess effect on mortality due to low number of deaths in both groups.
+
+
+Why this year?
+Vaccine coverage low
+Vaccine doesn’t cover the strain
+28
+
+
+Reasons for the current epidemic of influenza?
+Change in vaccine coverage?  
+Waning immunity?
+Bad batch of vaccine?
+Change in viral strain? 
+
+New approaches to influenza vaccine development—universal vaccine
+HA stem protein-based vaccine
+ Sequential immunization: live attenuated virus, followed by inactivated virus immunization elicits anti-stem protein antibodies
+ Mini-stem immunogens—protected mice from death but not from viral replication
+Computationally optimized broadly reactive antigens (COBRAs) for HA head region
+ layering of consensus HA protein sequences to generate a consensus sequence
+ recapitulate amino acid changes in the virus during the past years to present
+ may require multiple antigens (“cocktail”)
+
+Hepatitis A
+
+Picornavirus
+
+Hepatitis A vaccine
+Killed, inactivated virus propagated in a cell line (depends on manufacturer)
+Licensed in the US in 1996 (1991 in Europe)
+>90% effective, long-lasting (15 yrs or longer)
+# Circulating: get re-expose
+35
+
+Global patterns of Hep A virus transmission
+Endemicity                Age at infection                    Transmission pattern
+High                       early childhood                    person to person, outbreaks uncommon
+Intermediate              late childhood/young adults         person-to-person, food and waterborne outbreaks
+Low.                      late childhood/young adults         person-to-person, food and waterborne outbreaks
+Very low                   adults                             travelers, outbreaks uncommon 
+
+Figure 2.6a. Hepatitis A reports*,by risk exposure/behavior† — United States, 2015
+Source: CDC, National Notifiable Diseases Surveillance System (NNDSS)
+*A total of 1,390 case reports of hepatitis A were received in 2015.  
+† More than one risk exposure/behavior may be indicated on each case-report.
+§ No risk data reported.
+¶A total of 726 hepatitis A cases were reported among males in 2015.
+Number of cases
+Figure 2.6a presents reported risk exposures/behaviors for acute hepatitis A during the incubation period, 2–6 weeks prior to onset of symptoms:
+
+Of the 578 case reports that included information about travel, 7.6% (n= 44) indicated travel outside of the United States or Canada.
+Of the 520 case reports that included information about injection-drug use, 3.5% (n=18) indicated use of injection drugs.
+Of the 100 case reports from males that included information about sexual preference/practices, 8.0% (n=8) indicated having sex with another man.
+ 
+
+37
+
+Epidemiology of hepatitis A in the United States
+Pre-Vaccine era: 
+ cyclic increases every 10-15 yrs
+ >21,000 cases/year 
+95% decrease since 1999
+  
+
+Recent foodborne outbreaks of Hep A, United States, 2013-16
+2013: Multistate outbreak due to pomegranate seeds
+ 10 states, 165 cases, 71 hospitalizations
+ Traced back to pomegranate seeds imported from Turkey
+2016: Multistate outbreak due to frozen strawberries (Tropical Smoothie Café)
+ 9 states, 143 cases, 56 hospitalizations
+ Traced back to imported strawberries from Egypt
+2016: Hawaii—raw scallops, imported from the Phillipines
+
+High hospitalization to infection rate
+Last 3 years: foodborne gone down but community outbreaks increased
+Outbreak in homeless population
+41
+
+>1400 outbreak-associated cases between July 2016-Dec 2017
+42
+
+Multistate hepatitis A outbreak: United States, March, 2017-
+States: California, Michigan, Utah, Kentucky
+Transmission: Homeless persons, injection drug users
+Strain: Genotype 1B
+
+Death uniform , not very high <- old, underlying medical conditions
+43
+
+Hep A outbreak, California, 2017- 
+Same genotype but cities are not close: maybe traveller? 
+44
+
+Reasons for the outbreaks of Hep A?
+Larger pool of unvaccinated people?
+Increased foreign travel?
+Increased homelessness?   <-first time become risk factor
+Waning vaccine efficacy?
+New viral strain?
+
+Prevalence of anti-HA antibody, NHANES, United States, 1999-2000 vs 2009-2010
+More kids get vaccinated
+47
+
+
+Hep A in homeless populations
+Increased homelessness?
+Homelessness never previously considered a risk factor for Hep A
+What’s the mode of transmission among homeless people?
+What’s the link between Southern CA and Northern CA outbreaks?
+#Person to person, contact fecal
+Share food
+Southern and northern ca: related, maybe IV used people travelled
+49
+
+Figure 2.6a. Hepatitis A reports*,by risk exposure/behavior† — United States, 2015
+Source: CDC, National Notifiable Diseases Surveillance System (NNDSS)
+*A total of 1,390 case reports of hepatitis A were received in 2015.  
+† More than one risk exposure/behavior may be indicated on each case-report.
+§ No risk data reported.
+¶A total of 726 hepatitis A cases were reported among males in 2015.
+Number of cases
+Figure 2.6a presents reported risk exposures/behaviors for acute hepatitis A during the incubation period, 2–6 weeks prior to onset of symptoms:
+
+Of the 578 case reports that included information about travel, 7.6% (n= 44) indicated travel outside of the United States or Canada.
+Of the 520 case reports that included information about injection-drug use, 3.5% (n=18) indicated use of injection drugs.
+Of the 100 case reports from males that included information about sexual preference/practices, 8.0% (n=8) indicated having sex with another man.
+
+
+Recommendation for Hep A vaccine
+All children at age 1 year
+Travelers to countries that have high rates of hepatitis A
+Family members and caregivers of recent adoptees from countries where hepatitis A is common
+Men who have sexual contact with other men
+People who use injection and non-injection illegal drugs
+People with chronic liver diseases, such as hepatitis B or hepatitis C
+People who are treated with clotting-factor concentrates
+People who work with hepatitis A infected animals or in a hepatitis A research laboratory
+
+New recommendations?
+Identify risk factors for transmission among homeless people.
+Vaccinate homeless people and other risk groups previously not included?
+Rapid mobilization of vaccines.
+Rapid sequencing of the virus implicated in outbreaks.
+Others??
+
+Other vaccine-preventable disease outbreaks?Measles <- sociological issue
+Semi-educated
+NEW VACCINES FOR EMERGING INFECTIOUS DISEASES
+
+Learning objectives
+Be able to discuss why we need or do not need a new vaccine for dengue, Ebola, Zika and other emerging epidemic-causing infectious diseases.
+Understand the challenges to developing a new vaccine against dengue, Ebola and Zika viruses?
+Biological challenges
+Sociological challenges
+Understand what we have learned so far from clinical trials.
+
+1. Ebola virus disease (EVD)
+filovirus
+
+EVD epidemic in West Africa, 2013-16
+Why explosion? Virus enter very densed city, highly transmissive
+Nothing related to culture
+
+Ebola virus
+Single strand RNA virus, member of Filoviridae
+Five species--Zaire Ebola virus, Sudan Ebola virus (Sudan virus), Reston Ebola virus (Reston virus), Taï Forest Ebola virus (Tai Forest virus), and Bundibugyo Ebola virus (Bundibugyo virus).
+
+Ebola epidemic—West Africa, 2013-16 
+>28000 cases, 11,308 deaths mostly in Sierra Leone, Guinea, and Liberia
+2/5 died
+Caused by Zaire Ebola virus (ZEBOV)
+Transmitted by direct contact with blood; sexual transmission documented
+
+
+Ebola virus disease
+Pathogenesis:
+Viral glycoprotein (GP) facilitates uptake into macrophages
+Exaggerated cytokine expression
+Correlate of protection?? 
+IgG response and intact CMI responses observed in survivors
+Clinical manifestations:
+Severe bleeding, coagulation irregularities, gastrointestinal bleeding, disseminated intravascular coagulopathy, shock
+# cytokine expression: shock, vascular leakage
+
+
+Do we need a vaccine against EVD?
+#BCG: give to certain areas
+#Go aborad(typhoid vaccine)
+
+Ebola vaccine candidates
+Vaccine type                    Key components              Efficacy (animal)
+Inactivated virus | Formalin, heat, irradiated virus | No effect (mice, guinea pig)
+Subunit | EBOV gene in bacterial plasmid (DNA vaccine): GP, NP, VP35 or VP40 genes |Full protection (mice, guinea pig)
+Virus-like particle |  VP40 +/-GP | Full protection (mice, guinea pig)
+Vaccinia virus vector | Recombinant vaccinia virus: GP, VP24, VP35 and VP40|Incomplete protection (guinea pig), No protection (non-human primate)
+Venezuelan equine virus (VEE) replicon |Recombinant VEE virus: NP, GP(single cycle replication)|Full protection (mice),No protection (NHP)
+Adenovirus vector |Recombinant adenovirus serotype 5:NP, GP (replication deficient)| Complete protection (NHP)
+Vesiculovirus (VSV) vector | Recombinant VSV: GP(replication competent) | Complete protection  (mice), 50% protection in guinea pig, NHP
+Challenge virus: Zaire EBOV
+#Adenovirus vector<- human have the virus antibody, failure
+#Use different serotype
+9
+
+Ebola vaccine candidates—post-exposure
+Incubation period after exposure: 2-3 weeks
+Vaccine can be given after exposure to prevent disease?
+ Protection in mice (100%) and guinea pigs (50%) given VSV-GP 24-hrs after infection with Zaire EBOV (Feldman H et al, PLoS Path, 2007)
+ 50% protection in NHP given VSV-GP 20-30 min after infection with ZEBOV (Feldman H et al); 100% in NHP in subsequent study (Geisbert TW et al, J Virol 2009).
+# Problem: you don’t know infection time
+
+Other approaches to EBOV vaccine development
+li-key hybrid technology: Peptide made from MHC Class II-associated invariant chain li-protein linked to EBOV antigen (Erskine CL, J Immunol, 2011)
+ Facilitates strong MHC Class II loading and CD4 T cell presentation
+ Induces strong humoral immune response
+ Found to be safe in human phase I and II trials
+ Humoral response long-lasting (>3 yrs)
+#Antigen Express
+Forces MHC present specific antigen you want it to present
+11
+
+Human trials of EBOV vaccines
+Vaccine  | Company |Key component | Phase
+cAd3-EBO |GlaxoSmithKline (GSK)|chimpanzee adenovirus type 3 (ChAd3)|I
+rVSV-ZEBOV|Merck|attenuated vesicular stomatitis virus|I, II, III*
+Ad26.ZEBOV/MVA-BN-Filo|Johnson and Johnson with company Bavarian Nordic	|replication-defective adenovirus-vector|I
+EBOV GP nanoparticle|Novavax|Baculovirus-derived Ebola GP nanoparticle + Matrix M adjuvant|I
+rVSVN4CT1 EBOV 	|NovaSep|recombinant VSV-vector|Pre-
+Rabies EBOV-GP|NIAID +IDT Biologika|vector based combination trivalent (Zaire, Sudan, Marburg EBOV)|Pre-
+VXA ZEBOV -GP|Lonza|recombinant VSV-vector vaccine|Pre-
+*Phase III: Guinea, March 2015-June 2016 (Henao-Restrepo, AM et al Lancet 2017)
+Only one vaccine to phase 3
+12
+
+Phase III, Guinea ring vaccination trial (Henao-Restrepo, AM et al, Lancet 2017)
+Merck rVSV-ZEBOV vaccine, March 2015-June 2016
+Immediate and delayed (21 days) vaccination of contacts of confirmed cases of EVD and their contacts (contacts of contacts)—ring vaccination
+Among randomized contacts: 
+0 cases among immediately vaccinated contacts (and contacts of contacts) at > 10 days of vaccination
+16 cases among delayed vaccinated contacts (7 clusters)
+Among non-randomized contacts (pilot phase, 19 clusters):
+0 cases among immediately vaccinated contacts
+23 cases among delayed or unvaccinated contacts
+Randomization stopped on July 31, 2015 based on interim results of 100% protection.
+Vaccine efficacy: 100%
+Adverse events: minimal (headache, fatigue, muscle aches)
+ring vaccination: vaccine contacts of cases/ people surrounding the people with disease
+(7 clusters means there are 7 primary cases
+
+
+2. Zika virus (ZIKV) disease 
+
+Zika virus
+First identified in Rhesus monkey in Zika forest, Uganda in 1947
+Member of the flavivirus (dengue, West Nile, yellow fever, JE)
+First human cases: Nigeria, 1952-4 (three cases)
+13 naturally-acquired cases over next 57 years
+SS +RNA virus
+
+SS+RNA virus, member of Flavivirus.
+One serotype divided into 3 major lineages:
+	East African
+	West African
+	Asian
+
+Spread of Zika 1947-2016 (WHO: J. Lee)
+59 cases in Yap Is
+333 confirmed cases and 19,000–32,000 suspected cases, 
+French Polynesia, 2013-14
+
+Locally-transmitted Zika cases in the world, 2015-17
+
+Transmission
+Mosquito (Aedes Aegypti)
+Sex
+Blood transfusion
+Laboratory exposure
+Others? 
+Case in Utah, 7/2016 
+
+Clinical manifestations
+80% asymptomatic
+Incubation 3-12 days
+Mild fever, skin rash, conjunctivitis, muscle pain
+Guillain-Barré syndrome
+Congenital Zika syndrome (CZS)
+
+“Never before in history has there been a situation where a bite from a mosquito could result in a devastating malformation….”Dr. Thomas Frieden, Director, CDC
+
+Congenital Zika syndrome:
+Microcephaly
+Intracranial calcifications
+Other brain abnormalities
+Eye anomalies
+Hearing loss
+Limb abnormalities (agyria)
+Impaired growth
+
+Other adverse pregnancy outcomes:
+Spontaneous abortion (<20 wks gestation)
+Stillbirths (> 20 wks gestation)
+Seizures
+Swallowing impairment
+Severe irritability
+Developmental delay
+Growth abnormalities
+Piercing scream
+# Microphaly can develop even after birth
+25
+
+CZS cohort study, Niteroi, Brazil (Renata V et al)
+125 children of pregnant mothers with rash, or children 
+suspected to have CZS whose mother had rash during pregnancy
+4 excluded
+Group 1: 39 children of mothers 
+who tested positive for ZIKV by RT-PCR
+Group 2: 31 children of mothers 
+who tested negative for ZIKV by RT-PCR
+Group 3: 51 children of mothers 
+never tested by RT-PCR
+
+CZS cohort study, Niteroi, Brazil (Renata V et al)
+
+CZS cohort study, Niteroi, Brazil (Renata V et al)
+Group 1 (RT-PCR+): Confirmed CZS: 10 (25.6%); 3 microcephaly
+Group 2 (RT-PCR-): Confirmed CZS: 0
+Group 3 (No RT-PCR): Confirmed CZS: 13 (25.5%); 12 microcephaly
+Biased sample due to post-hoc data
+Retrospectively ask if the mother has rash <- biased 
+28
+
+Do we need a vaccine against ZIKV?
+Give to mothers in endemic ares.
+asymptomatic
+29
+
+Whom should a ZIKV vaccine target?
+Women of childbearing age
+Elderly population in endemic countries?
+Newborns in endemic countries?
+Men of childbearing age?
+Travelers to endemic countries?
+Newborns: protected by maternity immunity? Give vaccine?
+30
+
+What do we know about immune response to ZIKV?
+Many potential receptors for ZIKV--dendritic-cell-specific ICAM-3 grabbing non-integrin, Axl receptor tyrosine kinase, hepatitis A virus cellular receptor 1, tyrosine protein kinase 3
+Antibody to E protein protective; cross-reacts with dengue E protein (E protein 99% identical at AA level across all ZIKV strains)
+Do we need to worry about antibody-dependent enhancement (ADE)?
+Do we need to worry about “original antigenic sin”?
+ Biased memory immune response to the primary infecting microbe during subsequent infection with a microbe with a slightly different antigenic property at the sacrifice of mounting an effective response to the second infection.
+
+
+
+
+ZIKV vaccines under development and evaluation
+Vaccine type
+Key component
+Efficacy (animal)
+Inactivated virus
+Inactivated whole virus
+Complete protection (mice, rhesus monkey)
+Plasmid DNA 
+DNA vaccine containing prM and E genes
+Complete protection (mice, rhesus monkey); protection against heterologous ZIKV strains
+Dengue virus vector
+Live, attenuated, recombinant DV vector: prM, E
+Complete protection in mice
+Yellow fever virus vector
+YFV-ZIKV chimera: prM, E
+Complete protection in mice
+Adenovirus vector
+Recombinant adenovirus vector, prM, E
+Complete protection in mice
+MVA, simian AdV, 
+Recombinant viral vectors
+Varyng protection in mice
+mRNA
+mRNA encapsulated in lipid nanoparticle
+Protects against infection in mice, NHP
+ZIKV from Thailand protects against subsequent challenge with ZIKV from Puerto Rico in rhesus macaque (Osuna CE et al, Nature Med,2016)
+ZIKV from east Africa induces protective immunity against French Polynesia ZIKV strain
+
+Unanswered questions:
+In utero transmission in infected mother—what does this tell you?
+Sexual transmission from male to female—what does this tell you?
+ Herd immunity?  None of the vaccines to date have been evaluated to test for inducing herd immunity.
+Will a ZIKV induce antibody-dependent enhancement (ADE)?
+# Only against animal challenge, mother will develop immunity against virus, but fetus still infected -> no protection against transmission!!!!!
+Vaccine should protect against transmission, but no vaccine can do that now -> we don’t want vaccine against mother’s rash, but fetus 
+
+
+3. Dengue 
+
+
+Dengue virus
+SS+RNA virus, member of Flavivirus.
+Four major serotypes  
+DENV1
+DENV2
+DENV3
+DENV4
+69% to 78% similar in AA sequence
+55 to 56% similar in AA sequence to ZIKV
+
+Dengue
+WHO: 400 million new infections 100 million new symptomatic cases annually
+
+Dengue clinical manifestations:
+Asymptomatic infection
+Dengue fever
+ fever, arthralgia, myalgia, abdominal pain, rash
+Dengue hemorrhagic fever (DHF)
+Dengue shock syndrome (DSS)
+ Over 2 million DHF/DSS cases and 20,000 deaths
+
+Do we need a vaccine against DENV?
+Very common disease, widely spread
+More death
+38
+
+What do we know about immune response to DENV?
+Type I interferon response important for protection.
+Humoral immune response to one DENV serotype protective against the same serotype.
+E protein main target of neutralizing antibodies.
+Antibody-dependent enhancement (ADE): 
+Occurs during secondary infection with a heterologous DENV serotype. 
+Cross-reactive sub-neutralizing antibodies from the first infection form DENV-antibody 
+    complexes and bind to FcγRs on macrophages. 
+Facilitates viral entry and replication—leads to vascular plasma leakage and severe clinical manifestation
+#ADE especially young children
+sub-neutralizing: help virus to enter
+
+Antibody-dependent enhancement 
+DENV + sub neutralizing Ab -> combine with FcR, increased entry into FCR bearing cells -> increased virus production -> increased viremia and viral burden in other tissues -> increased disease severity
+#Happens to other virus, but not as the magnitude of dengue
+
+
+DENV vaccines under development and evaluation
+Vaccine type | Key component
+Inactivated virus | Inactivated whole virus, monovalent, tetravalent
+Attenuated virus | Monvalent, bivalent, tetravalent DENV chimeric virus (2000)
+Plasmid DNA | Tetravalent prM/E expressed from plasmid vector
+Virus-vectored vaccines |YFV, Venezualan Equine Encephalitis (VEE) virus, adenovirus, Measles virus: Tetravalent, monovalent
+Subunit vaccines | EDIII-p64k fusion proteins and EDIII-capsid fusion proteins expressed in E. coli;
+                   Bivalent 80E-STF2 fusion proteins expressed in baculovirus/insect cells;
+                   Tetravalent consensus EDIII protein expressed in E. coli
+No good animal models available:
+	Mice: intracerebral challenge, immunosuppressed mice, humanized mice
+	NHP: Viremia but no disease
+
+Phase III trial of dengue vaccine (CYD-TDV or Dengvaxia)
+Meta-analysis of 3 trials of CYD-TDV (Hadinegoro SR et al, NEJM, 2015)
+Vaccine: Chimeras of yellow fever 17D and PrM and E proteins from four DENV serotypes (Sanofi), given in 3 doses in 5 Asian and 5 Latin American countries.
+35,000 children vaccinated
+Pooled efficacy in first 25 mos: 65.6% (95% CI, 60.7 to 69.9) in >9 years of age or older; 44.6% (95% CI, 31.6 to 55.0) in <9 years of age.
+Significantly higher number of vaccinated vs placebo children 2-5 years of age hospitalized with dengue.
+Not observed in vaccinated children >5 years of age
+SAGE predicts reduction of 10-30% in dengue-hospitalizations over 30 years in vaccinated children > 9 years age.
+December, 2015: Recommendation: >9-year-olds in Mexico, Honduras, Brazil and the Philippines, and subsequently in 19 countries dengue-endemic regions.
+
+Dengvaxia
+Philippine government vaccinated >830,000 mostly 9-year-olds starting in April 2016.
+18-months later, dengue hospitalization and deaths reported among vaccinated children.
+Measure of efficacy of the vaccine may have been biased by scoring dengue hospitalizations of vaccinated children as vaccine failures rather than as vaccine
+    enhanced dengue disease during the original trial (SB Halstead, Human Vaccines & Immunotherapeutics, 2018). 
+How do you assess vaccine failure vs vaccine-induced adverse event?
+
+
