@@ -1,0 +1,294 @@
+Introduction, part 1Brief history of vaccine development and its impact on public healthVariolation in China to prevent smallpoxVariola (smallpox) in 10th century China10th Century Turkey—variolation Constantinople, 1717 – Lady Mary Wortley Montagu Famous victims of smallpox: King Luis XV, Queen Mary II, Czar Peter IIBoston ,1721 - Cotton Mather (learned from slave Onesimus)Edward Jenner,1796 – Smallpox vaccineAli Maow Maalin May 8 1980England death rate decrease from 1900 to 1964: measles, scarlet fever, typhoid, whooping cough, diphtheriaPolio in USA: vaccine introduced in 1950s and 1960smeasles vaccine licensed in 1960spertussis in USA: 265,269 in 1934;  48,277 cases in 2012—most since 1955!Estimated number of deaths in 2002 in children under age five from diseases preventable(excluding measles) by vaccines currently recommended by WHO: 890,000. Hib: 386,000 ;Pertussis: 294,000 ;Neonatal tetanus: 180,000 ;Tetanus (non-neonatal): 18,000 ; Other (polio, diphtheria, yellow fever): 19,000 Estimated number of deaths due to rotavirus, meningococcus and pneumococcus in 2002:2.1 million, of which 1.1 million were children. Pneumococcal disease: 1,612,000, of which 716,000 under age five Meningococcal disease: 26,000, of which 10,000 under age five Rotavirus: 449,000, of which 402,000 under age fiveIntroduction to basic concepts: Part 2Evolution of technology of vaccine developmentEmpirical approach (Diphtheria, tetanus, pertussis, rabies, influenza, smallpox,poliomyelitis, BCG)Glycoconjugation, cell culture technologies, new adjuvants (Men ACWY, Streptococcus pneumoniae, Haemophilus influenzae type b, group A streptococcus, group B streptococcus, Staphylococcus aureus; B. pertussis, influenza)Reverse vaccinology (Meningococcus group B, group A streptococcus, group Bstreptococcus, S aureus, Escherichia coli, Clostridium difficile)Structural biology, Systems biology (New generation vaccines; new adjuvants; safer vaccines)Early vaccines--examplesVaccines prepared by isolation, inactivation, and attenuation of causative agentVirus grown in rabbit brain tissueCaused autoimmune diseaseRabies vaccine (Pasteur): 1885, virus grown in rabbit tissue, caused autoimmune diseasePolio vaccine: 1. Old oral vaccine: Paralytic polio (1.1/1 million doses)2. Cutter incident (1955): inactivated vaccine not fully inactivated (120,000 doses)—60 polio cases among vaccinated children, 89 family contacts; 5 deaths (Cutter Laboratories, Berkeley, CA)New technologies—1980sGlycoconjugation: Chemistry to covalently link proteins to polysaccharidesTissue culture production of antigens: Express protein of interest (instead of microbe) in cultured cell linesConjugate vaccinesDesigned to overcome the problem of limited protection conferred by polysaccharide vaccines.Haemophilus influenza type b conjugate vaccine:  first polysaccharide conjugate vaccine (1987)Provides herd immunity: protected unvaccinated populationsProvides protection against young children and longer-term protection in all vaccinated subjectsTissue culture-produced vaccinesDesigned to overcome safety concernsAcellular pertussis vaccine Influenza vaccine (allows more rapid production; avoids egg allergy)Advantages and disadvantages of current approaches to vaccine development Live attenuated vaccines:Advantages—highly effective; long-lastingDisadvantages—difficult to grow; safety concerns; more side effects Inactivated vaccines:Advantages—easy to makeDisadvantages—difficult to grow; short-lasting effectSubunit vaccines:Advantages—safe, less side effects; Disadvantages—labor intensive to make; short-lasting effectConjugate vaccines:Advantages—can enhance protective immunogenicity; Disadvantages—technically more demanding to make; too many capsule types; capsules may not be immunogenic (e.g. group B meningococcus)We have vaccine for low antigenic variability/antibody mediated immunity:polio, MMR, tetanus, influenza, diptheriaWe don't have vaccine for high antigenic variablitu/ T cell dependent immunity:MenB, GBS, Staphylococcus, Chlamydia, gonorrhea, malaria, parasite disease, TB, HIV“-omics” and vaccine developmentDNA: GenomicsRNA: TranscriptomicsProteins: ProteomicsMetabolites: MetabolomicsPost-genomic approaches: “Reverse vaccinology”: applied to meningococcal vaccine Conventional approach:Successful development of vaccine against serogroups A, C, Y, W135. Failure against serogroup B: Polysaccharide capsule similar in structure to human polysialic acid, hence poorly immunogenic. High strain diversity.Reverse vaccinology:Single genome-based approach: Strain MC58: 2158 ORFs; 570 predicted to encode surface proteins; 350 expressible in E. coli; 28 protective by passive immunization in animal model; conservation of the sequences among clinical isolates from different regions of the world.Pan-genomeSet of all the genes within a speciesCore genome: genes found in all strains in a speciesDispensable genome: genes found in 2 or more strains of a speciesUnique genes: genes specific to one strain“Open” pan-genomes: Group B streptococcus, E. coli“Closed” pan-genomes: B. anthracis“Finite” pan-genomes (Supragenome): H. influenza (13), S. pneumoniae (17)Pan-genome reverse vaccinology: Identify all open reading frames from the pan-genome,Identify surface-expressed proteins (586), Select E. coli expressible genes (312), Select proteins that induce bactericidal antibody or show protection by passive immunization of in an animal model (4 selected—1 core, 3 dispensable)Microarrays: Used to compare differences among different strains to identify conserved regions; Can focus on proteins expressed during disease processPost-genomic vaccine development—cont.:Proteomics approach: Example: Group A streptococcus (GAS); Protease digest of surface proteins of a strain (SF370) of GAS analyzed by tandem mass spectrometry; Sequence of peptides identified and compared against protein database; Found 73 distinct proteins (4 were cytoplasmic); Two of these found to be protective against a heterologous virulent strain of GAS (DSM2071) in nasal challenge in mice; One was M protein; other was a proteinaseTranscriptomics applied to MenB vaccine development: 189 genes shown to be expressed during bacterial attachment of epithelial cells ;12 surface proteins; 5 induced protective antibodies in miceOther –omics approaches :Functional genomics; Proteomics: Mass spec analysis of proteins; ImmunomicsNew approaches to vaccine safety and effectiveness assessmentNumber of individuals tested to bring a vaccine into market: 1981: Plasma-derived hepatitis B vaccine—800; 2000: Conjugate pneumococcal vaccine—60,000; 2006: rotavirus vaccine—80,000Post-licensure assessmentVaccine targets: Children ; Healthy adults; Pregnant women; Elderly ; Cancer patients and immunosuppressed individuals; Drug-resistant bacterial pathogens; PovertyRationale for vaccines against povertyInfectious diseases account for half of all deaths in developing countries.About 90% of these deaths are caused by the following infectious diseases: diarrhea, acute respiratory infections of children, AIDS, tuberculosis, malaria, and measlesVaccine-preventable cancers are more prevalent in developing countries
+
+==================================================================================
+Immunology of vaccinology—basic knowledge
+
+Vaccine preventable diseases—current situation
+1. Diseases under control (from developed country perspective) 
+smallpox diphtheria tetanus yellow fever, pertussis ? ,polio measles rubella, Haemophilus influenza diseases, mumps ?, typhoid fever, chickenpox, rotavirus infections
+2. Diseases not yet under control:
+influenza, hepatitis A, hepatitis B, pneumococcal diseases, meningococcal diseases, HPV-associated diseases, TB (BCG)
+Common infectious diseases against which no vaccines exist
+Community-acquired urinary tract infections
+Blood stream infections/sepsis; hospital infections
+Drug-resistant Gram-negative bacterial infections
+MRSA
+Fungal infections
+Enteric infections:
+Non-typhoidal salmonellosis
+Campylobacter enteritis
+Shigellosis
+E. coli diarrheas
+Helicobacter pylori: Gastrointestinal ulcers, adenocarcinoma
+Norovirus gastroenteritis
+
+Common infectious diseases against which no vaccines exist--cont.
+Acute respiratory infections (Common cold, Respiratory syncytial virus,Rhinovirus infections, Streptococcus groups A and B)
+Sexually transmitted infections (Chlamydia infections, Syphilis, Gonorrhea, AIDS)
+
+Common infectious diseases against which no vaccines exist—cont.
+Parasitic diseases:
+Malaria
+Leishmaniasis
+Schistosomiasis
+Giardiasis
+Global viral diseases:
+AIDS/HIV infection
+Hepatitis C
+Dengue
+
+
+Definitions:
+Vaccine Efficacy: degree of beneficial result achieved under ideal conditions
+
+Vaccine Effectiveness: degree of beneficial result achieved under field conditions for a defined population
+
+--Analogy: sensitivity vs positive predictive value of a laboratory test
+
+Immunology Background
+
+Components of the human immune system:
+
+	-Bone marrow
+	-Thymus
+	-Lymph nodes
+	-Lymphatic vessels
+	-Spleen
+	-Mucosa-associated
+	 lymphoid tissue (MALT)
+	-Immune cells
+
+Immune system—overview of the structure
+Innate immunity: Innate immunity is what you’re born with…
+Acquired immunity:
+Humoral immunity
+Cell-mediated immunity
+Cytotoxic T cells (CD8+ T cells)
+Helper T cells (CD4+ T cells) (Th subsets):
+Th1 (IFNγ, TNFα)
+Th2 (IL-4, IL-6)
+Treg (IL-10, TGFβ)
+Th17 (IL-17)
+
+Components of Innate Immunity
+Mechanical and physical barriers: 
+Epithelial cells; Secretions: tear, saliva, cerumen, mucus
+Cells:
+Phagocytes;Natural killer (NK) cells
+Proteins:
+Pattern-recognition receptors
+Complement system
+Cytokines and chemokines
+Other plasma proteins
+
+General features of innate immunity
+Responds to microbes or host cells damaged by microbes
+Has specificity, just like adaptive immunity (via pattern-recognition receptors)
+Predetermined as opposed to random (as in adaptive immune response)
+Provides early defense against infections
+Prepares adaptive immune response to mount an effective immune response
+Has no memory
+Does not react against the host
+
+Epithelial cell barrier: 
+Skin
+Gastrointestinal tract
+Respiratory tract
+Urinary tract
+Vaginal tract:Can produce peptide antibiotics;Intraepithelial lymphocytes
+Peyer’s patch
+
+Phagocytes:
+Neutrophils (PMNs):Stimulated by colony-stimulating factors; First cell type to respond to bacterial infections
+Monocytes:
+Differentiates into macrophages
+
+Other cell types involved in innate immune response
+natural killer (NK) cells: destroy virus-infected and tumor cells
+mast cells: thought to be involved in defense against parasites; also involved in allergic reactions. Upon activation, they recruit basophils and eosinophils.
+dendritic cells: they specialize in ingesting antigens in a tissue, and migrate to lymph nodes where they present the processed antigens on the surface for lymphocyte recognition—also called antigen presenting cells or APCs.  Thus, these cells link innate and acquired immunity.
+
+Innate (natural) immunity:
+Toll-like receptors (TLR): family of membrane receptors on mammalian cells that recognize microbial conserved structures (e.g., peptidoglycans, LPS, polysaccharides, DNA, RNA); they arm the cells for subsequent inflammatory response.
+NOD receptors: intracellular receptors that recognize bacterial peptidoglycans
+Pattern recognition receptors: 
+Toll-like receptors
+Mannose receptor
+Scavenger receptors
+Inflammasomes (cytosolic protein complexes that recognize pathogen signals and activate downstream caspase 1:
+Mariathasan &  Monach
+Pattern recognition receptors—important component for adjuvant development in vaccinology
+Nuclear oligomerization domain [NOD], NLRs, STING and DDX41—part of cytosolic surveillance pathway or CSP)
+
+TLRs and their ligands--human
+TLR
+Ligand (organism)
+1 Tri-acyl lipopeptides (Mycobacteria); soluble factors (Neisseria) (Gram +)
+2 Glycolipids, lipopeptides/proteins, lipoteichoic acid (Gram +) , lipoarabinomannan (Mycobacteria), porins, atypical LPS (Leptospira) 
+3 dsRNA (virus) 
+4 LPS (Gram -), taxol (plant), RSV fusion protein, HSP60, fibronectin components 
+5 Flagellin (bacteria) 
+6 Diacyl lipopeptide (mycoplasma) (Gram +)
+7 Synthetic immune modifiers--imiquimod, R-848, loxoribine, and bropirimine 
+8 ssRNA
+9 CpG unmethylated DNA motifs 
+10 ?
+
+Complement system:
+Collection of circulating and membrane-associated proteins that prepare microbes for phagocytic killing
+Three components—differ in their initiation:
+Alternative pathway (innate)
+Classical pathway (adaptive)
+Lectin pathway (innate)
+
+
+Innate (natural) immunity
+Chemokines: small chemoattractant proteins that activate and facilitate migration of phagocytic cells and lymphocytes. 
+Chemokine receptors: receptors on phagocytic cells and lymphocytes that bind to cytokines and chemokines, respectively.  Some of these serve as receptors or co-receptors for infectious agents (e.g., CCR5, CXCR4 for HIV).
+
+Cytokines
+Activated macrophages (and other cell types) produce proteins called cytokines (interleukins, or IL) that affect function and behavior of other cell types.
+Cytokines produced by activated macrophages (TNFα, IL-1, IL-6, IL-8, IL-12)
+
+Chemokines and chemokine receptors—cont.
+Functions:
+Chemotaxis, cell migration
+Extravasation
+Hematopoesis
+Angiogenesis—organogenesis, tumor formation
+Adhesion—viral infection
+
+Phagocytic responses
+Cells (phagocytes) involved:
+Macrophages, neutrophils, natural killer cells (NK), mast cells, dendritic cells
+Ligands recognized by phagocytes
+Complement receptors (CR1, 2, 3,4, C1qR)
+TLRs, NOD receptors
+Fc receptors
+Mannose receptors
+Scavenger receptors
+
+Other effector molecules
+Reactive oxygen intermediates:  oxygen radicals, hydrogen peroxide, superoxide
+Reactive nitrogen intermediates: nitric oxide, peroxynitrite
+Antimicrobial peptides/proteins
+defensins, perforin, granzymes, etc
+
+Innate immunity--Relevance to vaccinology
+Route of vaccine delivery (skin, mucosal penetration)
+Vaccine formulation (killed, attenuated, subunit, DNA)
+Enhancement of innate immunity by adjuvants (cytokines, chemokines, antigen presentation)
+Blocking of receptors used by pathogens for cell entry (innate immunity cell types)
+Inhibition of pathologic immune response (cytokines)
+
+Acquired immunity:
+Humoral immunity
+Cell-mediated immunity
+Antigen presenting cells (APCs) link innate and acquired immunity systems:
+Dendritic cells
+Macrophages
+Others
+
+Humoral immunity
+Highlights:
+Immunoglobulins are the main effector molecules of the humoral immune system
+Produced by plasma cells derived from activated B cells
+Immunoglobulins recognize peptides, polysaccharides, lipids, small chemicals
+
+
+Definitions
+Immunoglobulin—(Antibody)—a protein produced by plasma cells 
+Antigen: molecule that elicits an antibody response against itself; antigen recognized by antibody to be foreign. 
+Hapten: type of antigen that by itself cannot elicit an antibody response, but when complexed to a larger protein molecule, it can engender an antibody directed at itself.
+Epitopes (determinants): parts of antigens recognized by antibodies.
+
+Antibody--structure
+Two types of light chains:-κ, λ
+Five types of heavy chains:μ, δ, γ, ε, α
+
+How does an almost unlimited repertoire of antibodies get generated from a limited set of genes?
+Combinatorial diversification:
+Variable regions are inherited as gene segments
+ 
+V gene segments (250-1000) in Heavy chain, 252 in Light chain
+J segments (4) in Heavy chain, 7 in Light chain
+D segments (12) in Heavy chain,
+V x J x D =10,000-40,000
+H x L =109 to 1011 arrangements!!
+
+
+Antibodies: types of immunoglobulins______
+IgG	protect against bacteria, viruses; enhance phagocytosis; neutralize toxins 	(crosses placental barrier) 
+IgA	protects against infection on mucous membranes
+IgM	protects against early phase of infection; comprises ABO antibodies; can 	lyse microbes; receptor for activation of B cells
+IgD	serves as receptors for activation of B cells
+IgE	involved in allergic responses; triggers release of histamine
+32
+
+Humoral (antibody-mediated) immunity:Pathway of immunoglobulin production
+Immature (naïve) B cells (bone marrow) express IgM and IgD 
+Antigens that bind to IgM and IgD activate these B cells (lymphoid tissue: lymphoid follicles of lymph nodes, spleen, mucosal lymphoid tissues)
+Activated B cells undergo clonal expansion 
+One activated B cell may generate 4000 plasma cells per day
+1012 antibody molecules per day!
+Activated B cells differentiate into effector cells (plasma cells) that secrete antibodies     
+
+B cell activation—cont.
+T-cell dependent and T-cell independent antigens:
+Protein antigens (peptides) require T helper cells to stimulate B cells to differentiate into plasma cells—T cell dependent antigens.
+Some antigens do not require T helper cells to stimulate B cells.—T-cell independent antigen.
+T cell independent antigens (polysaccharides, lipids) usually generate IgM antibody, which has no memory.
+
+B cell activation—cont.
+Primary response: antibody response to first encounter with antigen
+5-10 days; IgM>IgG; Variable affinity to target antigens
+Secondary response: antibody response to subsequent encounters with antigen
+1-3 days; IgG (IgA or IgE; isotype switching); More isotype switching, affinity maturation
+
+Immunglobulin modulation
+Isotype (heavy chain class) switching: 
+Production of different classes of heavy chain specialized to recognize different types of microbes
+T lymphocytes involved in isotype switching
+Affinity maturation:
+Production of antibodies with increasing affinity to the antigen due to repeated or prolonged exposures 
+
+
+Affinity maturation-- type of “machine learning”
+Mediated by point mutations (somatic hypermutation) in the V region genes
+Dependent on T helper cells
+B cells proliferate in lymphoid follicles with a doubling time of 6 hrs (5000 cells in 1 wk)
+Mutation rate: 1/1000 base pairs per division!
+The correct mutants get selected because they get activated by the correct antigens and T cells.
+High affinity B cells get selected over time to become more numerous
+
+Relevance to vaccinology: Why is affinity maturation important?
+Enhance efficiency of target recognition and elimination.
+Generation of memory cells that will respond more rapidly in subsequent infections.
+Basis for vaccine efficacy!
+
+Cell-mediated immunity
+Highlights
+T lymphocytes are the main effector cells involved in elimination of intracellular pathogens/organisms.
+T cells can only recognize antigens presented by antigen-presenting cells (APCs) to become activated.
+T cells recognize two types of intracellular microbes—those residing in a phagosomal compartment and those residing in the cytoplasm.
+T cells recognize peptides, but occasionally lipids
+
+
+T cell maturation process
+-Immature T-cells (bone marrow)
+-Mature T cells (thymus) 
+-Activated T cells (lymphoid tissues)
+CD4 or helper T cells:  Th1 or Th2 subtypes
+CD8 or killer or cytotoxic T cells
+CD25 or regulatory T cells 
+
+
+Relevance to vaccinology—acquired immunity
+Enhancing protective humoral immunity 
+Enhancing protective cell-mediated immunity
+Enhancing mucosal immunity (maximizing IgA, IgG in mucosal surfaces)
+Inhibition of inhibitory inflammatory cell function (cytokines)
+Enhancing vaccine efficacy:
+Adjuvants to enhance expression of costimulators on APCs to better activate T cells
+Designing vaccines effective in T-cell independent manner (conjugate vaccines)
+
